@@ -12,3 +12,6 @@ This project explores two problems: discovering a set of attributes that predict
 Contraceptive usage/family planning has been shown to have remarkable consequences on the behaviour of households with respect to children and mothers, children are more likely to be immunised, pregnant women are more likely to get proper health care checkups, and women are more likely to be punctilious about their health (for example, getting checkups for Breast and Cervix Cancer).
 <br></br>
 Please see the [report]() for detailed findings. 
+<br></br>
+
+This project has been completed as part of the research project for CS F415 : Data Mining at [BITS Pilani, Hyderabad Campus](https://www.bits-pilani.ac.in/hyderabad/computerscience/ComputerScience) under the guidance of [Dr. Manik Gupta](https://www.bits-pilani.ac.in/hyderabad/manik/Profile)
