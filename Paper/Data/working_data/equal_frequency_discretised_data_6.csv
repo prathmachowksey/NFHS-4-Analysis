@@ -1,0 +1,655 @@
+,District,1. Population (female) age 6+ years who ever attended school (%),4. Sex ratio at birth for children born in the last five years (females per 1000 males),7. Households with an improved drinking-water source1 (%),8. Households using improved sanitation facility2 (%),9. Households using clean fuel for cooking3 (%),10. Households using iodized salt (%),12. Women who are literate (%),13. Men who are literate (%),14. Women with 10 or more years of schooling (%),15. Women age 20-24 years married before age 18 years (%),19. Any modern method (%),25. Total unmet need (%),30. Mothers who had at least 4 antenatal care visits (%),32. Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),40. Institutional births (%),47. Children age 12-23 months fully immunized (BCG measles and 3 doses each of polio/DPT) (%),53. Children age 9-59 months who received a vitamin A dose in last 6 months (%),62. Children under age 3 years breastfed within one hour of birth8 (%),65. Breastfeeding children age 6-23 months receiving an adequate diet9 10 (%),67. Total children age 6-23 months receiving an adequate diet9 10 (%),68. Children under 5 years who are stunted11 (%),72. Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2) (%),73. Men whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2) (%),74. Women who are overweight or obese (BMI >=25.0 kg/m2) (%),75. Men who are overweight or obese (BMI >=25.0 kg/m2) (%),76. Children age 6-59 months who are anaemic (<11.0 g/dl) (%),79. All women age 15-49 years who are anaemic (%),80. Men age 15-49 years who are anaemic (<13.0 g/dl) (%),State,Region,Zone
+0,Senapati,high,low,low,high,medium,high,high,high,medium,medium,low,high,medium,low,low,medium,low,high,high,high,medium,low,low,medium,high,low,low,low,MN,Rural,North Eastern Zone
+2,Tamenglong,medium,high,low,high,low,high,medium,high,medium,low,low,high,low,low,low,low,low,high,high,high,medium,low,low,medium,low,low,low,low,MN,Rural,North Eastern Zone
+4,Churachandpur,high,high,low,high,high,high,high,high,high,low,low,high,medium,medium,low,low,low,high,high,high,medium,low,low,high,medium,low,low,low,MN,Rural,North Eastern Zone
+6,Bishnupur,high,medium,low,medium,high,high,high,high,high,low,low,high,high,high,medium,high,low,high,high,high,low,low,low,high,high,low,low,low,MN,Urban,North Eastern Zone
+7,Bishnupur,high,medium,low,medium,medium,high,high,high,medium,low,low,high,high,high,medium,high,low,high,high,high,low,low,low,high,high,low,low,low,MN,Rural,North Eastern Zone
+9,Thoubal,high,high,low,medium,high,high,high,high,high,low,low,high,high,high,medium,medium,low,high,high,high,low,low,low,high,high,low,low,low,MN,Urban,North Eastern Zone
+10,Thoubal,high,medium,low,medium,medium,high,high,high,medium,low,low,high,high,high,low,medium,low,high,high,high,low,low,low,high,medium,low,low,low,MN,Rural,North Eastern Zone
+12,Imphal West,high,high,low,medium,high,high,high,high,high,low,low,high,high,high,high,high,low,high,high,high,low,low,low,high,high,low,low,low,MN,Urban,North Eastern Zone
+13,Imphal West,high,medium,low,medium,high,high,high,high,high,low,low,high,high,high,high,high,medium,high,high,high,low,low,low,high,high,low,low,low,MN,Rural,North Eastern Zone
+15,Imphal East,high,low,low,medium,high,high,high,high,high,low,low,high,high,high,medium,high,low,high,high,high,low,low,low,high,high,low,low,low,MN,Urban,North Eastern Zone
+16,Imphal East,high,high,low,medium,high,high,high,high,high,low,low,high,high,high,medium,high,low,high,high,high,low,low,low,high,high,low,low,low,MN,Rural,North Eastern Zone
+18,Ukhrul,high,high,low,high,low,medium,high,high,high,medium,low,high,low,low,low,low,low,high,high,high,medium,low,low,low,low,low,low,low,MN,Rural,North Eastern Zone
+20,Chandel,high,medium,low,high,medium,high,high,high,high,low,low,high,medium,medium,low,medium,low,high,high,high,medium,low,low,high,medium,low,low,low,MN,Rural,North Eastern Zone
+22,Bargarh,medium,medium,medium,low,low,high,medium,medium,medium,low,medium,low,medium,high,high,high,high,high,low,low,medium,high,low,medium,medium,high,high,high,OR,Rural,Eastern Zone
+24,Jharsuguda,high,medium,medium,medium,high,high,high,high,high,low,high,low,high,high,high,medium,high,high,medium,medium,low,medium,low,high,high,medium,high,high,OR,Urban,Eastern Zone
+25,Jharsuguda,medium,high,medium,medium,low,medium,medium,medium,medium,low,high,low,high,high,high,high,high,high,high,high,medium,high,high,low,low,high,high,high,OR,Rural,Eastern Zone
+27,Sambalpur,medium,high,low,low,low,medium,medium,medium,low,low,medium,medium,high,high,medium,high,medium,high,medium,low,high,high,high,low,medium,high,high,high,OR,Rural,Eastern Zone
+29,Debagarh,medium,high,low,medium,low,low,medium,low,medium,medium,low,high,medium,medium,medium,medium,high,high,medium,medium,medium,high,medium,low,low,low,low,high,OR,Rural,Eastern Zone
+31,Sundargarh,high,high,medium,high,high,high,high,medium,high,low,medium,medium,high,high,high,high,high,high,high,high,medium,medium,medium,high,high,medium,high,high,OR,Urban,Eastern Zone
+32,Sundargarh,medium,high,medium,low,low,medium,medium,medium,medium,low,medium,low,high,high,medium,high,medium,high,high,high,medium,high,low,low,low,high,high,high,OR,Rural,Eastern Zone
+34,Kendujhar,low,low,low,low,low,low,medium,medium,medium,medium,low,high,medium,high,medium,high,high,high,medium,medium,high,high,medium,low,medium,low,low,medium,OR,Rural,Eastern Zone
+36,Mayurbhanj,low,high,low,low,low,low,low,low,medium,high,low,medium,high,medium,medium,high,high,high,medium,medium,high,high,medium,low,medium,low,low,medium,OR,Rural,Eastern Zone
+38,Baleshwar,high,medium,high,medium,low,low,high,high,medium,medium,low,high,medium,low,high,high,medium,high,low,low,medium,medium,low,medium,high,low,low,medium,OR,Rural,Eastern Zone
+40,Bhadrak,high,medium,high,low,low,medium,high,high,medium,low,low,high,low,medium,medium,high,high,high,medium,medium,medium,high,medium,medium,high,low,low,medium,OR,Rural,Eastern Zone
+42,Kendrapara,high,high,high,low,medium,medium,high,low,medium,low,medium,medium,medium,medium,high,high,medium,high,high,high,low,medium,high,medium,low,low,low,high,OR,Rural,Eastern Zone
+44,Jagatsinghapur,high,medium,high,medium,low,high,high,high,high,low,medium,medium,high,high,high,high,high,high,high,high,low,low,medium,high,high,low,low,low,OR,Rural,Eastern Zone
+46,Cuttack,high,high,medium,medium,medium,low,high,high,medium,low,medium,medium,medium,medium,high,high,high,high,medium,medium,low,medium,medium,high,high,low,low,medium,OR,Rural,Eastern Zone
+48,Jajapur,high,low,medium,medium,medium,high,high,high,medium,low,medium,medium,medium,high,high,high,high,high,high,high,low,medium,medium,medium,low,low,low,medium,OR,Rural,Eastern Zone
+50,Dhenkanal,medium,high,low,low,medium,high,medium,medium,medium,medium,medium,low,high,medium,high,high,medium,high,medium,medium,low,medium,medium,medium,medium,low,low,high,OR,Rural,Eastern Zone
+52,Anugul,medium,low,low,medium,medium,low,medium,medium,medium,medium,medium,low,high,medium,high,high,medium,high,medium,medium,medium,medium,medium,medium,medium,low,low,high,OR,Rural,Eastern Zone
+54,Nayagarh,high,low,low,medium,medium,low,high,medium,low,medium,medium,medium,medium,medium,high,high,high,high,medium,medium,low,low,medium,high,high,low,low,medium,OR,Rural,Eastern Zone
+56,Khordha,high,high,medium,high,high,medium,high,high,high,medium,medium,medium,medium,medium,medium,medium,high,high,low,medium,low,low,low,high,high,low,low,low,OR,Urban,Eastern Zone
+57,Khordha,high,low,low,low,medium,low,high,medium,medium,low,medium,medium,medium,medium,high,high,high,high,high,high,low,medium,low,high,high,low,medium,low,OR,Rural,Eastern Zone
+59,Puri,high,medium,medium,medium,medium,high,high,high,medium,low,high,medium,high,high,high,high,high,high,high,high,low,low,low,high,high,low,low,low,OR,Rural,Eastern Zone
+61,Ganjam,medium,low,medium,medium,medium,low,low,medium,low,high,medium,high,medium,medium,high,medium,low,high,low,low,low,medium,medium,medium,medium,low,low,high,OR,Rural,Eastern Zone
+63,Gajapati,low,low,low,medium,low,low,low,low,low,medium,medium,low,medium,medium,low,low,low,high,low,low,medium,medium,medium,low,medium,medium,high,high,OR,Rural,Eastern Zone
+65,Kandhamal,low,high,low,low,low,medium,low,medium,low,medium,medium,low,medium,high,low,high,high,high,high,high,medium,high,medium,low,low,low,medium,high,OR,Rural,Eastern Zone
+67,Baudh,medium,high,medium,low,low,low,medium,medium,low,medium,medium,low,high,high,medium,high,medium,high,medium,medium,medium,high,medium,low,medium,low,medium,high,OR,Rural,Eastern Zone
+69,Subarnapur,medium,high,medium,low,low,high,medium,medium,medium,medium,medium,medium,high,high,high,high,high,high,high,high,high,high,medium,medium,medium,high,high,high,OR,Rural,Eastern Zone
+71,Balangir,medium,high,medium,low,low,high,medium,medium,low,low,medium,low,high,high,high,high,low,high,medium,medium,high,high,medium,low,low,high,high,high,OR,Rural,Eastern Zone
+73,Nuapada,low,high,medium,low,low,high,low,low,low,medium,medium,low,high,high,medium,high,medium,high,low,low,medium,high,high,low,low,medium,high,high,OR,Rural,Eastern Zone
+75,Kalahandi,low,low,medium,low,low,medium,low,low,low,medium,medium,low,medium,medium,medium,high,high,high,low,low,medium,high,high,low,low,high,high,high,OR,Rural,Eastern Zone
+77,Rayagada,low,high,medium,low,low,low,low,low,low,high,medium,low,medium,high,low,high,high,high,high,high,high,high,high,low,low,medium,medium,high,OR,Rural,Eastern Zone
+79,Nabarangapur,low,high,high,low,low,low,low,low,low,high,medium,low,high,medium,low,high,high,high,high,high,high,high,high,low,low,high,high,high,OR,Rural,Eastern Zone
+81,Koraput,low,medium,low,low,low,low,low,low,low,high,medium,low,medium,medium,low,medium,medium,high,low,low,high,high,high,low,low,high,high,high,OR,Rural,Eastern Zone
+83,Malkangiri,low,medium,medium,low,low,low,low,low,low,high,medium,medium,high,high,low,high,medium,high,high,high,high,high,high,low,low,high,high,high,OR,Rural,Eastern Zone
+86,Mamit,high,medium,low,high,medium,medium,high,high,low,medium,low,high,medium,high,low,low,medium,high,medium,low,low,low,low,medium,medium,low,low,low,MZ,Rural,North Eastern Zone
+88,Kolasib,high,high,high,high,high,high,high,high,high,low,low,medium,high,high,high,medium,high,high,high,high,low,low,low,high,high,low,low,low,MZ,Urban,North Eastern Zone
+89,Kolasib,high,high,medium,high,high,medium,high,high,low,medium,low,high,medium,high,low,low,medium,high,high,high,medium,low,low,medium,low,low,low,medium,MZ,Rural,North Eastern Zone
+91,Aizwal,high,medium,medium,high,high,high,high,high,high,low,medium,high,high,high,high,low,high,high,high,high,low,low,low,high,high,low,low,low,MZ,Urban,North Eastern Zone
+94,Champhai,high,high,high,high,high,high,high,high,high,low,low,high,high,high,high,low,high,high,high,high,low,low,low,high,high,low,low,low,MZ,Urban,North Eastern Zone
+95,Champhai,high,medium,medium,high,medium,high,high,high,low,medium,low,high,medium,high,medium,low,high,high,high,high,medium,low,low,medium,medium,low,low,low,MZ,Rural,North Eastern Zone
+97,Serchhip,high,medium,high,high,high,high,high,high,high,low,medium,high,high,high,high,medium,high,high,high,high,low,low,low,high,medium,low,low,low,MZ,Urban,North Eastern Zone
+98,Serchhip,high,high,medium,high,medium,high,high,high,low,low,medium,high,medium,high,medium,medium,high,high,high,high,low,low,low,low,medium,low,low,low,MZ,Rural,North Eastern Zone
+100,Lunglei,high,low,high,high,high,high,high,high,high,low,low,high,high,high,high,low,high,high,high,high,low,low,low,high,high,low,low,medium,MZ,Urban,North Eastern Zone
+101,Lunglei,high,medium,medium,high,medium,high,high,high,low,medium,low,high,low,medium,low,low,medium,high,high,medium,low,low,low,medium,medium,low,low,medium,MZ,Rural,North Eastern Zone
+104,Lawngtlai,medium,high,low,high,medium,high,medium,high,low,medium,low,high,low,high,low,low,low,high,medium,medium,medium,low,low,low,medium,low,low,medium,MZ,Rural,North Eastern Zone
+106,Saiha,high,high,medium,high,high,high,high,high,high,low,medium,high,medium,high,high,low,medium,high,low,low,low,low,low,medium,medium,low,low,medium,MZ,Urban,North Eastern Zone
+107,Saiha,high,low,medium,high,medium,high,high,high,medium,low,low,high,medium,high,low,medium,high,high,high,medium,high,low,low,low,low,low,low,low,MZ,Rural,North Eastern Zone
+110,Darjiling,high,high,low,high,high,medium,medium,high,medium,medium,high,low,high,high,high,high,medium,medium,medium,medium,low,low,low,medium,high,low,medium,low,WB,Rural,Eastern Zone
+112,Jalpaiguri,medium,medium,low,medium,low,low,low,low,low,high,medium,medium,high,medium,medium,high,high,high,high,high,low,high,medium,low,low,high,high,high,WB,Rural,Eastern Zone
+114,Koch Bihar,medium,high,high,medium,low,low,medium,low,low,high,high,low,high,medium,medium,high,high,medium,high,high,medium,medium,medium,low,low,medium,high,high,WB,Rural,Eastern Zone
+116,Uttar Dinajpur,low,medium,high,low,low,medium,low,low,low,high,medium,medium,medium,low,low,medium,low,medium,high,high,medium,medium,medium,low,low,medium,high,high,WB,Rural,Eastern Zone
+118,Dakshin Dinajpur,medium,medium,high,medium,low,low,medium,low,low,high,medium,low,high,high,medium,high,high,medium,high,high,low,medium,low,low,low,high,high,high,WB,Rural,Eastern Zone
+120,Maldah,medium,medium,low,medium,low,low,medium,low,low,high,medium,medium,medium,medium,low,high,medium,medium,low,low,medium,medium,medium,low,low,medium,high,medium,WB,Rural,Eastern Zone
+122,Murshidabad,medium,high,high,medium,low,low,medium,medium,low,high,high,low,high,medium,low,high,medium,medium,high,medium,medium,medium,medium,medium,medium,low,medium,high,WB,Rural,Eastern Zone
+124,Birbhum,medium,low,high,low,low,low,medium,medium,low,high,high,low,high,medium,medium,high,high,high,high,high,medium,high,high,low,low,medium,high,medium,WB,Rural,Eastern Zone
+126,Barddhaman,high,medium,medium,medium,high,medium,medium,low,medium,medium,medium,low,high,high,medium,high,medium,high,high,high,low,medium,medium,high,high,low,high,medium,WB,Urban,Eastern Zone
+127,Barddhaman,medium,high,high,medium,medium,medium,medium,low,low,high,high,low,high,medium,medium,high,medium,high,high,high,medium,medium,high,medium,low,low,high,medium,WB,Rural,Eastern Zone
+129,Nadia,medium,low,medium,high,medium,medium,medium,low,low,high,high,low,high,medium,high,high,high,medium,high,high,low,low,medium,high,low,low,high,medium,WB,Rural,Eastern Zone
+135,Hugli,high,medium,high,medium,medium,high,medium,medium,low,high,high,low,high,medium,high,high,medium,medium,high,high,medium,medium,medium,high,medium,medium,high,high,WB,Rural,Eastern Zone
+137,Bankura,medium,high,medium,low,low,low,medium,medium,low,high,high,low,high,high,medium,high,high,medium,high,high,medium,high,medium,low,low,low,high,high,WB,Rural,Eastern Zone
+139,Puruliya,low,high,low,low,low,low,low,low,low,high,medium,low,high,medium,medium,high,high,high,high,high,medium,high,medium,low,low,high,high,high,WB,Rural,Eastern Zone
+141,Haora,high,high,medium,high,high,high,high,high,medium,medium,medium,low,high,medium,high,medium,medium,medium,high,high,medium,low,medium,high,high,medium,medium,high,WB,Urban,Eastern Zone
+142,Haora,high,medium,high,medium,medium,medium,high,medium,medium,high,high,low,high,high,medium,high,high,medium,high,high,low,medium,medium,high,medium,low,high,high,WB,Rural,Eastern Zone
+144,Kolkata,high,high,medium,medium,high,high,high,medium,high,low,high,low,high,high,high,medium,medium,medium,high,high,low,low,medium,high,high,high,medium,medium,WB,Urban,Eastern Zone
+146,South Twenty Four Parganas,high,high,high,medium,low,low,medium,low,low,high,high,low,high,medium,low,high,high,high,high,high,low,medium,medium,medium,low,medium,high,high,WB,Rural,Eastern Zone
+148,Paschim Medinipur,high,low,high,medium,low,low,medium,medium,medium,high,high,low,high,medium,medium,high,high,medium,high,high,low,high,high,medium,medium,medium,high,high,WB,Rural,Eastern Zone
+150,Purba Medinipur,high,high,high,high,low,low,high,high,medium,high,high,low,high,medium,medium,high,high,low,high,high,low,medium,low,medium,high,low,high,high,WB,Rural,Eastern Zone
+155,Chennai,high,high,low,high,high,medium,high,high,high,low,high,low,high,high,high,high,medium,medium,high,high,low,low,low,high,high,low,medium,low,TN,Urban,Southern Zone
+160,Vellore,high,medium,low,high,high,low,high,medium,high,low,high,medium,high,high,high,high,high,high,high,high,low,low,medium,high,high,low,high,medium,TN,Urban,Southern Zone
+163,Tiruvannamalai,medium,low,high,low,high,low,medium,medium,high,medium,medium,low,high,high,high,medium,high,medium,high,high,low,medium,low,high,high,medium,high,medium,TN,Rural,Southern Zone
+165,Viluppuram,medium,low,high,low,high,low,medium,low,high,medium,medium,low,high,high,high,high,medium,medium,high,high,low,medium,medium,high,high,medium,high,high,TN,Rural,Southern Zone
+167,Salem,high,medium,medium,high,high,low,high,medium,high,low,high,low,high,high,high,high,medium,high,high,high,low,low,low,high,high,medium,medium,medium,TN,Urban,Southern Zone
+176,The Nilgiris,high,high,medium,high,high,low,high,high,high,low,medium,low,high,high,high,high,high,medium,high,high,low,low,low,high,medium,medium,medium,high,TN,Urban,Southern Zone
+180,Dindigul,medium,high,high,medium,high,low,medium,medium,medium,medium,high,low,high,high,high,high,medium,high,high,high,medium,low,low,high,high,low,medium,medium,TN,Rural,Southern Zone
+183,Karur,medium,high,medium,medium,high,low,high,low,high,medium,high,low,high,high,high,high,high,high,high,high,low,medium,medium,high,high,medium,medium,medium,TN,Rural,Southern Zone
+188,Perambalur,medium,medium,medium,medium,high,low,medium,medium,high,low,medium,medium,high,high,high,medium,medium,medium,high,high,low,medium,medium,high,high,medium,high,medium,TN,Rural,Southern Zone
+190,Ariyalur,medium,low,high,low,high,low,medium,high,high,low,low,medium,high,high,high,medium,high,medium,high,high,medium,low,low,high,high,low,high,medium,TN,Rural,Southern Zone
+195,Nagapattinam,high,high,medium,medium,high,low,high,medium,high,low,high,low,high,high,high,low,medium,medium,high,high,low,medium,low,high,high,low,medium,low,TN,Rural,Southern Zone
+197,Thiruvarur,high,high,high,medium,medium,low,high,high,high,low,high,medium,high,high,high,high,high,high,high,high,low,medium,medium,high,high,medium,high,medium,TN,Rural,Southern Zone
+200,Thanjavur,high,low,high,medium,medium,low,high,medium,high,low,medium,low,high,high,high,high,high,medium,high,high,low,low,medium,high,high,medium,high,medium,TN,Rural,Southern Zone
+202,Pudukkottai,medium,medium,low,low,medium,low,high,medium,high,low,low,medium,high,high,high,low,medium,medium,high,high,low,medium,medium,high,high,low,medium,low,TN,Rural,Southern Zone
+217,Ramanathapuram,medium,low,low,medium,high,low,medium,high,high,low,low,high,high,high,high,low,medium,medium,high,high,low,medium,medium,high,high,medium,medium,low,TN,Rural,Southern Zone
+225,Kanniyakumari,high,high,medium,high,high,low,high,high,high,low,medium,medium,high,high,high,medium,medium,medium,high,high,low,low,low,high,high,low,low,low,TN,Urban,Southern Zone
+227,Dharmapuri,medium,medium,high,medium,high,low,medium,medium,high,medium,high,low,high,high,high,low,high,medium,medium,high,low,low,low,high,high,medium,high,high,TN,Rural,Southern Zone
+229,Krishnagiri,medium,low,high,medium,high,low,medium,medium,high,medium,high,low,high,high,high,high,medium,high,high,high,low,medium,medium,medium,high,medium,medium,high,TN,Rural,Southern Zone
+231,Coimbatore,high,low,medium,high,high,low,high,high,high,medium,high,low,high,high,high,high,medium,high,high,high,low,low,low,high,high,low,medium,low,TN,Urban,Southern Zone
+233,Tiruppur,high,high,high,medium,high,medium,high,medium,high,low,high,medium,high,high,high,high,high,high,high,high,low,low,low,high,high,medium,high,high,TN,Urban,Southern Zone
+236,West Garo Hills,high,high,low,medium,low,high,high,low,medium,medium,low,medium,medium,low,low,low,low,high,high,high,low,low,low,low,medium,medium,high,high,ML,Rural,North Eastern Zone
+238,East Garo Hills,high,high,low,medium,low,high,medium,low,medium,medium,low,high,low,medium,low,low,medium,medium,high,high,low,low,low,low,low,high,high,high,ML,Rural,North Eastern Zone
+240,South Garo Hills,high,high,low,high,low,high,high,high,high,low,low,medium,medium,high,high,high,high,medium,high,high,low,low,low,medium,high,high,medium,high,ML,Rural,North Eastern Zone
+242,West Khasi Hills,high,medium,low,high,low,high,high,high,low,medium,low,high,medium,medium,low,high,low,high,high,high,high,low,low,low,low,low,medium,medium,ML,Rural,North Eastern Zone
+244,Ribhoi,high,high,low,medium,low,high,high,low,low,medium,low,high,medium,medium,low,medium,medium,high,high,high,high,low,medium,low,low,low,high,high,ML,Rural,North Eastern Zone
+246,East Khasi Hills,high,low,medium,high,high,high,high,high,high,low,low,high,high,high,high,high,medium,high,high,high,low,low,medium,high,medium,low,low,low,ML,Urban,North Eastern Zone
+247,East Khasi Hills,high,high,low,high,low,high,high,medium,medium,low,low,high,high,high,low,medium,medium,medium,high,high,high,low,low,medium,low,low,medium,medium,ML,Rural,North Eastern Zone
+249,Jaintia Hills,high,high,low,medium,medium,high,high,low,low,medium,low,high,medium,high,low,medium,low,high,high,high,high,low,low,low,low,low,medium,high,ML,Rural,North Eastern Zone
+251,Nandurbar,low,high,low,low,low,high,low,low,medium,medium,high,medium,medium,high,low,low,high,high,low,low,high,high,high,low,low,medium,high,high,MH,Rural,Western Zone
+253,Dhule,medium,low,medium,low,medium,medium,low,medium,medium,high,high,low,medium,low,low,low,high,high,high,high,medium,high,high,low,medium,high,medium,medium,MH,Rural,Western Zone
+258,Buldana,high,low,low,medium,medium,high,high,high,medium,high,high,low,high,medium,medium,medium,medium,low,low,low,high,high,high,medium,low,low,low,low,MH,Rural,Western Zone
+260,Akola,high,high,high,high,high,high,high,high,high,low,high,low,high,medium,high,low,medium,medium,low,low,low,medium,low,high,high,medium,low,low,MH,Urban,Western Zone
+261,Akola,high,medium,high,medium,medium,medium,high,high,high,low,high,low,high,medium,high,medium,high,high,low,low,high,medium,medium,medium,low,medium,low,medium,MH,Rural,Western Zone
+263,Washim,high,medium,low,medium,medium,medium,medium,high,medium,medium,high,low,high,medium,medium,medium,high,high,medium,medium,medium,medium,medium,low,medium,medium,low,medium,MH,Rural,Western Zone
+266,Amravati,high,high,medium,medium,medium,medium,high,medium,high,medium,high,low,high,high,high,medium,high,high,medium,medium,medium,high,medium,medium,medium,low,low,medium,MH,Rural,Western Zone
+271,Nagpur,high,high,medium,high,high,medium,high,high,high,low,high,low,high,high,high,high,high,high,low,medium,medium,medium,medium,high,high,low,low,medium,MH,Urban,Western Zone
+274,Bhandara,high,high,low,high,medium,high,high,high,high,low,high,low,high,medium,high,high,medium,low,low,low,medium,high,high,medium,low,low,medium,high,MH,Rural,Western Zone
+276,Gondiya,high,high,low,medium,medium,high,high,high,high,low,high,low,high,high,high,high,high,high,low,low,medium,high,high,low,low,medium,medium,high,MH,Rural,Western Zone
+278,Gadchiroli,medium,high,low,medium,medium,medium,medium,high,medium,low,high,low,high,high,medium,high,high,high,medium,medium,low,high,medium,low,medium,medium,medium,high,MH,Rural,Western Zone
+283,Yavatmal,high,medium,low,medium,medium,medium,medium,high,medium,medium,high,low,high,medium,medium,medium,high,high,medium,medium,high,high,high,low,medium,high,medium,medium,MH,Rural,Western Zone
+285,Nanded,medium,medium,medium,medium,medium,medium,medium,medium,low,high,high,low,high,high,medium,low,medium,high,low,low,medium,high,medium,low,medium,medium,low,low,MH,Rural,Western Zone
+287,Hingoli,medium,medium,low,medium,medium,high,medium,high,low,high,high,low,medium,high,medium,medium,medium,high,medium,medium,medium,high,high,medium,low,medium,low,low,MH,Rural,Western Zone
+289,Parbhani,high,medium,medium,medium,high,medium,high,high,high,medium,high,low,high,high,high,low,medium,medium,low,low,medium,medium,high,high,high,low,medium,low,MH,Urban,Western Zone
+290,Parbhani,low,high,medium,low,low,high,medium,medium,low,high,high,low,high,medium,medium,low,high,high,low,low,high,high,medium,low,medium,medium,low,low,MH,Rural,Western Zone
+292,Jalna,medium,low,low,medium,low,high,medium,high,medium,high,high,low,medium,high,high,high,high,high,low,low,high,high,high,medium,medium,low,low,low,MH,Rural,Western Zone
+294,Aurangabad,high,high,medium,high,high,high,high,high,high,high,high,low,high,low,high,high,high,medium,low,low,medium,low,medium,high,high,low,low,medium,MH,Urban,Western Zone
+297,Nashik,high,medium,high,high,high,high,high,high,high,medium,high,medium,medium,high,high,medium,medium,high,low,low,high,medium,low,high,high,medium,medium,low,MH,Urban,Western Zone
+298,Nashik,high,low,low,medium,high,medium,high,high,medium,medium,high,low,high,high,medium,medium,medium,high,low,low,high,high,medium,medium,high,medium,medium,medium,MH,Rural,Western Zone
+300,Thane,high,low,high,high,high,medium,high,high,high,low,high,medium,high,high,high,low,medium,high,medium,high,low,low,low,high,high,medium,low,low,MH,Urban,Western Zone
+302,Mumbai Suburban,high,medium,high,low,high,high,high,high,high,low,high,medium,high,high,high,low,high,high,high,high,low,low,low,high,high,high,medium,low,MH,Urban,Western Zone
+304,Mumbai,high,high,high,medium,high,medium,high,high,high,low,high,medium,high,high,high,low,high,medium,low,medium,low,low,low,high,high,medium,medium,medium,MH,Urban,Western Zone
+307,Raigarh,medium,low,medium,medium,high,low,high,medium,medium,medium,high,low,medium,high,high,low,high,high,medium,high,medium,high,medium,medium,medium,medium,high,low,MH,Rural,Western Zone
+310,Pune,high,low,medium,high,high,low,high,high,high,high,high,low,high,high,high,high,medium,high,low,medium,low,medium,low,high,medium,medium,medium,low,MH,Rural,Western Zone
+312,Ahmadnagar,medium,medium,low,medium,high,medium,high,high,high,high,medium,medium,medium,medium,high,low,high,medium,medium,low,medium,medium,medium,medium,medium,low,low,medium,MH,Rural,Western Zone
+314,Bid,low,high,low,medium,medium,medium,medium,high,medium,high,high,low,high,medium,high,low,high,high,high,high,medium,medium,high,medium,medium,medium,low,low,MH,Rural,Western Zone
+316,Latur,medium,high,medium,medium,medium,medium,high,high,medium,high,high,low,high,high,high,medium,medium,medium,medium,medium,medium,medium,medium,medium,medium,medium,low,low,MH,Rural,Western Zone
+318,Osmanabad,medium,low,medium,low,medium,high,high,high,medium,medium,high,low,high,high,medium,medium,high,high,low,medium,high,medium,medium,medium,high,low,low,low,MH,Rural,Western Zone
+320,Solapur,high,high,medium,high,high,medium,high,high,high,medium,high,medium,high,high,high,high,medium,high,medium,low,low,low,low,high,high,low,medium,low,MH,Urban,Western Zone
+321,Solapur,medium,low,low,medium,high,medium,medium,high,medium,high,high,low,high,high,medium,medium,medium,high,medium,medium,low,medium,medium,medium,high,medium,low,low,MH,Rural,Western Zone
+323,Satara,high,high,medium,high,high,low,high,high,medium,medium,high,medium,high,medium,high,medium,medium,high,low,low,low,high,high,medium,high,medium,medium,low,MH,Rural,Western Zone
+325,Ratnagiri,high,high,low,high,medium,low,high,high,medium,low,medium,high,high,high,high,high,high,high,medium,medium,low,high,high,medium,high,medium,medium,low,MH,Rural,Western Zone
+332,Sangli,high,medium,medium,high,high,medium,high,high,high,medium,medium,low,medium,high,high,low,medium,high,low,low,low,medium,medium,high,high,medium,medium,low,MH,Rural,Western Zone
+334,Korea,high,medium,medium,medium,high,high,high,high,high,medium,medium,medium,medium,high,medium,high,high,medium,medium,medium,low,medium,low,medium,high,low,low,low,CT,Urban,Central Zone
+335,Korea,medium,high,low,low,low,high,low,low,low,high,medium,medium,medium,medium,low,high,high,medium,high,high,medium,medium,low,low,medium,low,low,medium,CT,Rural,Central Zone
+337,Surguja,low,high,low,low,low,high,low,low,low,high,medium,medium,medium,medium,low,medium,medium,medium,high,high,medium,high,high,low,low,low,low,low,CT,Rural,Central Zone
+339,Jashpur,medium,medium,low,low,low,high,medium,low,medium,high,medium,medium,medium,medium,low,low,medium,medium,high,medium,medium,high,high,low,low,low,low,medium,CT,Rural,Central Zone
+341,Raigarh,medium,medium,medium,low,low,high,medium,medium,medium,medium,medium,medium,high,medium,low,medium,high,medium,high,high,medium,high,medium,low,low,low,low,medium,CT,Rural,Central Zone
+343,Korba,high,high,medium,high,high,high,high,high,high,low,high,medium,high,medium,medium,high,high,medium,medium,medium,low,medium,medium,high,high,low,low,low,CT,Urban,Central Zone
+344,Korba,medium,medium,low,low,low,high,low,low,low,medium,medium,medium,medium,medium,low,high,medium,medium,medium,medium,medium,high,high,low,low,low,medium,medium,CT,Rural,Central Zone
+346,Janjgir - Champa,medium,low,medium,low,low,high,medium,high,medium,medium,high,medium,medium,low,low,medium,medium,medium,high,high,medium,high,medium,medium,low,low,low,low,CT,Rural,Central Zone
+348,Bilaspur,medium,high,medium,low,low,high,medium,medium,low,medium,high,low,medium,high,medium,high,high,high,medium,medium,medium,low,medium,low,low,low,low,high,CT,Rural,Central Zone
+350,Kabirdham,low,medium,medium,low,low,medium,low,low,low,high,high,medium,medium,medium,low,medium,high,medium,high,high,medium,high,medium,low,medium,low,low,low,CT,Rural,Central Zone
+352,Rajnandgaon,high,medium,medium,medium,low,high,medium,high,medium,low,high,low,medium,high,medium,high,high,high,medium,medium,high,low,low,low,low,low,low,low,CT,Rural,Central Zone
+354,Durg,high,low,high,high,high,high,high,high,high,low,high,medium,high,high,medium,high,high,medium,medium,medium,low,medium,high,high,high,low,medium,low,CT,Urban,Central Zone
+355,Durg,medium,high,high,medium,low,high,medium,high,medium,medium,high,low,medium,medium,low,high,high,medium,low,low,medium,medium,high,medium,low,low,medium,medium,CT,Rural,Central Zone
+357,Raipur,high,medium,high,high,high,high,high,high,high,low,high,medium,high,high,medium,high,high,medium,high,high,medium,low,high,high,high,low,medium,medium,CT,Urban,Central Zone
+358,Raipur,medium,high,medium,low,low,high,medium,medium,low,medium,high,medium,high,medium,low,high,medium,medium,medium,medium,medium,high,medium,medium,medium,low,medium,medium,CT,Rural,Central Zone
+360,Mahasamund,medium,medium,high,low,low,high,medium,medium,low,medium,high,low,medium,medium,medium,high,medium,medium,high,high,high,high,medium,low,low,low,medium,medium,CT,Rural,Central Zone
+362,Dhamtari,medium,high,medium,medium,low,high,medium,high,medium,low,high,low,high,high,medium,high,high,medium,high,high,medium,high,medium,low,low,medium,high,high,CT,Rural,Central Zone
+364,Uttar Bastar Kanker,medium,low,high,medium,low,high,medium,medium,medium,low,high,medium,high,high,medium,high,high,medium,medium,low,medium,high,high,low,medium,medium,high,high,CT,Rural,Central Zone
+366,Bastar,low,high,medium,low,low,medium,low,low,low,medium,medium,medium,medium,medium,low,high,medium,high,medium,medium,medium,high,high,low,low,medium,high,high,CT,Rural,Central Zone
+368,Narayanpur,low,low,medium,low,low,high,low,low,low,medium,low,medium,medium,medium,low,medium,high,high,low,low,high,medium,medium,low,low,low,high,medium,CT,Rural,Central Zone
+370,Dakshin Bastar Dantewada,low,high,medium,low,low,high,low,low,low,medium,low,medium,medium,medium,low,medium,medium,medium,medium,medium,high,high,high,low,low,high,high,high,CT,Rural,Central Zone
+372,Bijapur,medium,medium,medium,low,low,high,medium,medium,low,low,medium,low,medium,medium,medium,high,high,medium,medium,low,high,medium,low,low,low,low,high,high,CT,Rural,Central Zone
+374,Pashchim Champaran,low,low,medium,low,low,low,low,low,low,high,low,high,low,low,low,low,medium,low,medium,medium,high,high,high,low,medium,medium,medium,high,BR,Rural,Eastern Zone
+376,Purba Champaran,low,low,high,low,low,low,low,low,low,high,low,high,low,low,low,low,low,medium,medium,medium,high,high,high,low,low,high,medium,medium,BR,Rural,Eastern Zone
+378,Sheohar,low,medium,high,low,low,low,low,low,low,high,low,high,low,low,low,medium,low,low,high,medium,high,high,high,low,medium,medium,medium,medium,BR,Rural,Eastern Zone
+380,Sitamarhi,low,high,high,low,low,medium,low,low,low,high,low,high,low,low,low,medium,medium,medium,medium,medium,high,high,high,low,low,high,high,high,BR,Rural,Eastern Zone
+382,Madhubani,low,medium,high,low,low,low,low,low,low,high,low,high,low,low,low,low,medium,low,medium,medium,high,high,medium,low,medium,medium,high,high,BR,Rural,Eastern Zone
+384,Supaul,low,medium,high,low,low,medium,low,medium,low,high,low,high,low,low,low,medium,high,low,low,low,high,high,high,low,low,high,high,high,BR,Rural,Eastern Zone
+386,Araria,low,medium,high,low,low,medium,low,low,low,high,low,high,low,low,low,low,medium,low,high,high,high,high,high,low,low,medium,high,high,BR,Rural,Eastern Zone
+388,Kishanganj,low,medium,high,low,low,medium,low,low,low,medium,low,high,low,low,low,medium,high,low,high,medium,high,high,medium,low,low,medium,high,high,BR,Rural,Eastern Zone
+390,Purnia,low,medium,high,low,low,medium,low,low,low,high,low,high,low,low,low,medium,high,medium,high,high,high,high,high,low,low,high,high,high,BR,Rural,Eastern Zone
+392,Katihar,low,medium,high,low,low,medium,low,low,low,high,low,high,low,low,low,high,medium,medium,medium,medium,high,high,medium,low,low,medium,high,high,BR,Rural,Eastern Zone
+394,Madhepura,low,medium,high,low,low,medium,low,low,low,high,low,high,low,low,low,medium,medium,medium,low,low,high,high,high,low,medium,medium,medium,high,BR,Rural,Eastern Zone
+396,Saharsa,low,high,high,low,low,low,low,low,low,high,low,high,low,low,low,high,medium,low,low,low,high,high,high,low,low,high,high,high,BR,Rural,Eastern Zone
+398,Darbhanga,low,medium,high,low,low,low,low,low,low,high,low,high,low,low,low,low,high,low,medium,medium,high,high,high,low,medium,high,high,high,BR,Rural,Eastern Zone
+400,Muzaffarpur,low,medium,high,low,medium,medium,low,low,low,high,low,high,low,low,low,medium,medium,medium,medium,medium,high,high,high,low,medium,medium,medium,high,BR,Rural,Eastern Zone
+402,Gopalganj,medium,high,high,low,medium,low,low,medium,medium,medium,low,high,low,low,medium,medium,medium,low,medium,medium,medium,medium,high,medium,high,medium,high,high,BR,Rural,Eastern Zone
+404,Siwan,medium,high,high,low,medium,medium,medium,medium,medium,medium,low,high,low,medium,medium,medium,high,low,medium,high,medium,medium,medium,medium,medium,medium,high,high,BR,Rural,Eastern Zone
+406,Saran,low,high,high,low,low,low,low,low,medium,medium,low,high,low,low,low,medium,medium,medium,low,medium,high,medium,high,medium,medium,medium,medium,medium,BR,Rural,Eastern Zone
+408,Vaishali,low,low,high,medium,medium,medium,low,low,medium,high,low,high,low,low,medium,high,high,medium,high,medium,high,high,high,medium,medium,high,high,high,BR,Rural,Eastern Zone
+410,Samastipur,low,high,high,low,low,low,low,low,medium,high,low,high,low,low,medium,medium,medium,medium,medium,low,high,high,high,low,low,medium,high,high,BR,Rural,Eastern Zone
+412,Begusarai,low,high,high,medium,low,medium,low,low,low,high,low,high,low,low,medium,high,high,low,low,low,high,high,high,low,medium,medium,high,high,BR,Rural,Eastern Zone
+414,Khagaria,low,high,high,medium,low,medium,low,low,low,high,low,high,low,low,low,medium,medium,low,medium,medium,high,high,medium,low,medium,medium,high,high,BR,Rural,Eastern Zone
+416,Bhagalpur,low,low,high,low,low,low,low,low,low,high,low,high,low,medium,low,medium,high,medium,low,medium,high,high,high,low,low,high,high,high,BR,Rural,Eastern Zone
+418,Banka,low,low,medium,low,low,low,low,low,low,high,low,high,low,medium,low,medium,medium,medium,medium,medium,high,high,high,low,medium,high,high,high,BR,Rural,Eastern Zone
+420,Munger,medium,medium,medium,medium,medium,medium,low,medium,medium,high,low,high,low,low,medium,medium,high,medium,high,high,high,high,medium,medium,medium,medium,high,high,BR,Rural,Eastern Zone
+422,Lakhisarai,low,medium,medium,medium,low,high,low,low,medium,high,low,high,low,low,low,medium,medium,medium,medium,medium,high,medium,medium,low,low,medium,high,high,BR,Rural,Eastern Zone
+424,Sheikhpura,low,high,medium,medium,low,low,low,low,low,high,low,high,low,low,medium,medium,medium,medium,high,high,high,high,medium,low,low,high,high,high,BR,Rural,Eastern Zone
+426,Nalanda,low,medium,high,low,medium,medium,low,low,low,high,low,high,low,low,medium,medium,medium,medium,low,medium,high,high,high,low,low,medium,high,medium,BR,Rural,Eastern Zone
+428,Patna,high,medium,high,high,high,high,high,high,high,medium,medium,high,low,low,high,medium,medium,medium,medium,medium,medium,medium,low,high,high,low,medium,medium,BR,Urban,Eastern Zone
+429,Patna,low,high,high,medium,medium,medium,low,low,medium,medium,low,high,low,medium,medium,medium,low,medium,low,low,high,high,medium,medium,low,medium,high,high,BR,Rural,Eastern Zone
+431,Bhojpur,medium,high,high,low,medium,low,low,medium,medium,high,low,high,low,low,medium,high,medium,low,medium,medium,high,medium,medium,medium,low,high,high,high,BR,Rural,Eastern Zone
+433,Buxar,medium,medium,high,low,medium,medium,medium,medium,medium,high,low,medium,low,low,medium,medium,medium,low,medium,medium,high,medium,medium,medium,low,medium,medium,high,BR,Rural,Eastern Zone
+435,Kaimur (Bhabua),low,medium,medium,low,low,medium,low,low,medium,high,low,high,low,low,medium,high,low,medium,low,low,high,high,high,medium,medium,medium,medium,low,BR,Rural,Eastern Zone
+437,Rohtas,medium,low,high,low,low,high,medium,low,medium,medium,medium,high,low,low,medium,high,medium,low,low,low,high,medium,high,medium,medium,medium,high,low,BR,Rural,Eastern Zone
+439,Aurangabad,low,medium,high,low,low,low,low,high,medium,high,low,high,low,low,low,high,medium,medium,medium,medium,high,high,high,low,high,medium,medium,low,BR,Rural,Eastern Zone
+441,Gaya,low,medium,medium,low,low,medium,low,low,medium,high,low,high,low,low,low,medium,medium,low,medium,medium,high,high,medium,low,medium,medium,high,high,BR,Rural,Eastern Zone
+443,Nawada,low,medium,high,low,medium,medium,low,low,medium,high,low,high,low,low,low,medium,medium,medium,high,high,high,high,high,low,low,medium,high,medium,BR,Rural,Eastern Zone
+445,Jamui,low,medium,low,low,low,low,low,low,low,high,low,high,low,low,low,medium,low,low,low,low,high,high,high,low,medium,medium,high,high,BR,Rural,Eastern Zone
+447,Jehanabad,low,low,high,low,low,medium,low,low,medium,high,low,high,low,low,medium,medium,medium,medium,high,high,high,high,high,low,medium,medium,high,medium,BR,Rural,Eastern Zone
+449,Arwal,low,medium,high,low,low,low,low,medium,medium,high,low,high,low,low,low,high,medium,medium,low,low,high,high,high,low,low,medium,medium,high,BR,Rural,Eastern Zone
+451,North District,high,high,high,high,high,high,high,medium,medium,low,medium,high,high,high,high,high,high,high,high,high,low,low,low,high,high,medium,low,medium,SK,Rural,Eastern Zone
+453,West District,high,low,medium,high,high,high,high,high,medium,low,high,medium,high,high,high,high,high,high,high,high,medium,low,low,high,high,medium,low,medium,SK,Rural,Eastern Zone
+457,East District,high,low,high,high,high,high,high,high,high,low,low,high,high,high,high,high,high,high,high,high,low,low,low,high,high,medium,low,low,SK,Urban,Eastern Zone
+458,East District,high,low,high,high,high,high,high,high,medium,low,low,high,medium,high,high,high,high,high,high,high,low,low,low,high,high,low,low,low,SK,Rural,Eastern Zone
+463,Kannur,high,high,medium,high,high,medium,high,high,high,low,medium,medium,high,high,high,high,medium,high,high,high,low,low,low,high,high,low,low,low,KL,Urban,Southern Zone
+467,Wayanad,high,high,medium,high,medium,medium,high,high,high,low,medium,medium,high,high,high,high,high,high,high,high,low,low,low,high,high,low,low,low,KL,Rural,Southern Zone
+470,Kozhikode,high,high,medium,high,high,medium,high,high,high,low,medium,medium,high,high,high,medium,high,high,high,high,low,low,low,high,low,low,low,low,KL,Rural,Southern Zone
+472,Malappuram,high,low,medium,high,high,high,high,high,high,medium,medium,high,high,high,high,medium,medium,high,high,high,low,low,low,high,high,medium,low,low,KL,Urban,Southern Zone
+473,Malappuram,high,high,medium,high,high,high,high,high,high,medium,medium,high,high,high,high,high,medium,high,high,high,low,low,low,high,high,medium,low,low,KL,Rural,Southern Zone
+476,Palakkad,high,high,medium,high,high,medium,high,high,high,low,high,medium,high,high,high,high,medium,high,high,high,low,low,low,high,high,low,low,low,KL,Rural,Southern Zone
+494,Pathanamthitta,high,high,medium,high,high,high,high,high,high,low,medium,medium,high,high,high,high,high,medium,high,high,low,low,low,high,high,low,low,low,KL,Rural,Southern Zone
+503,Garhwa,low,medium,low,low,low,low,low,low,low,high,low,high,low,low,low,low,low,low,medium,medium,high,high,high,low,low,medium,high,high,JH,Rural,Eastern Zone
+506,Chatra,low,medium,low,low,low,medium,low,low,low,high,low,high,low,low,low,low,medium,low,medium,medium,high,high,high,low,medium,medium,medium,high,JH,Rural,Eastern Zone
+509,Kodarma,low,low,low,low,medium,medium,low,medium,medium,high,medium,medium,medium,low,medium,medium,low,low,medium,medium,high,high,high,low,medium,high,high,high,JH,Rural,Eastern Zone
+512,Giridih,low,low,low,low,low,high,low,low,low,high,medium,high,medium,low,low,low,medium,medium,low,low,high,high,medium,low,low,high,high,high,JH,Rural,Eastern Zone
+515,Deoghar,low,low,medium,low,low,medium,low,low,low,high,medium,high,low,medium,low,medium,low,medium,medium,medium,high,high,high,low,low,medium,medium,medium,JH,Rural,Eastern Zone
+518,Godda,low,medium,low,low,low,medium,low,low,low,high,medium,medium,low,low,low,medium,low,medium,medium,medium,high,high,high,low,low,high,high,high,JH,Rural,Eastern Zone
+521,Sahibganj,low,low,low,low,low,medium,low,low,low,high,low,high,low,low,low,medium,low,low,medium,medium,high,high,medium,low,low,high,high,medium,JH,Rural,Eastern Zone
+524,Pakur,low,medium,medium,low,low,medium,low,low,low,high,low,high,low,low,low,high,medium,medium,medium,medium,high,high,high,low,low,high,high,high,JH,Rural,Eastern Zone
+526,Dhanbad,medium,low,low,medium,medium,high,medium,medium,high,medium,medium,medium,medium,medium,medium,medium,low,low,medium,medium,medium,medium,medium,medium,medium,high,high,high,JH,Urban,Eastern Zone
+527,Dhanbad,low,high,low,low,low,medium,medium,medium,medium,high,medium,medium,low,low,low,high,medium,low,medium,medium,medium,high,high,low,low,high,high,medium,JH,Rural,Eastern Zone
+529,Bokaro,high,medium,medium,high,high,medium,medium,medium,high,medium,medium,high,medium,medium,medium,medium,low,low,medium,medium,medium,medium,medium,medium,high,high,high,high,JH,Urban,Eastern Zone
+530,Bokaro,low,medium,low,low,low,high,low,medium,medium,high,medium,high,low,low,low,high,low,low,medium,medium,high,high,medium,low,low,high,high,high,JH,Rural,Eastern Zone
+533,Lohardaga,low,high,low,low,low,medium,low,low,medium,medium,low,high,low,medium,low,medium,medium,high,medium,medium,high,high,high,low,low,medium,high,high,JH,Rural,Eastern Zone
+535,Purbi Singhbhum,high,high,medium,high,high,high,high,high,high,low,low,high,high,medium,medium,medium,low,low,high,high,low,low,low,high,medium,medium,high,high,JH,Urban,Eastern Zone
+536,Purbi Singhbhum,low,low,low,low,low,high,low,low,low,high,low,high,medium,low,medium,high,medium,low,high,high,high,medium,medium,low,low,high,high,high,JH,Rural,Eastern Zone
+539,Palamu,low,high,medium,low,low,low,low,low,low,high,low,high,low,low,low,medium,medium,low,low,low,high,high,high,low,medium,medium,medium,medium,JH,Rural,Eastern Zone
+542,Latehar,low,low,low,low,low,medium,low,low,low,high,low,high,low,low,low,low,medium,low,medium,medium,high,high,high,low,low,low,medium,high,JH,Rural,Eastern Zone
+545,Hazaribagh,medium,low,low,low,low,medium,low,medium,medium,high,high,medium,medium,low,medium,high,high,medium,low,low,high,high,medium,low,medium,high,high,medium,JH,Rural,Eastern Zone
+547,Ramgarh,high,medium,low,medium,medium,medium,high,medium,high,medium,medium,medium,medium,medium,medium,medium,low,low,medium,medium,low,medium,high,high,medium,high,high,medium,JH,Urban,Eastern Zone
+548,Ramgarh,medium,high,low,medium,low,medium,medium,medium,medium,high,medium,medium,low,medium,low,medium,medium,medium,medium,medium,high,high,medium,low,low,high,high,high,JH,Rural,Eastern Zone
+551,Dumka,low,high,medium,low,low,medium,low,low,low,high,low,high,low,low,low,high,low,low,high,high,high,high,medium,low,low,high,high,high,JH,Rural,Eastern Zone
+554,Jamtara,low,medium,medium,low,low,medium,low,low,low,high,medium,high,low,low,low,medium,low,medium,medium,medium,high,high,medium,low,low,high,high,high,JH,Rural,Eastern Zone
+556,Ranchi,high,low,medium,high,high,high,high,high,high,medium,low,high,medium,high,high,high,low,medium,medium,high,low,medium,medium,high,high,low,medium,low,JH,Urban,Eastern Zone
+557,Ranchi,medium,high,low,low,low,medium,medium,medium,medium,high,medium,high,low,medium,low,medium,medium,medium,low,low,high,high,high,low,low,high,high,high,JH,Rural,Eastern Zone
+560,Khunti,low,high,low,low,low,medium,low,low,medium,medium,low,high,medium,medium,low,medium,medium,low,high,high,medium,medium,medium,low,low,medium,high,high,JH,Rural,Eastern Zone
+563,Gumla,medium,high,low,low,low,high,medium,medium,medium,medium,low,high,low,medium,low,medium,high,low,medium,medium,high,medium,high,low,low,high,high,high,JH,Rural,Eastern Zone
+566,Simdega,low,high,low,low,low,high,low,low,medium,low,low,high,low,low,low,low,medium,low,high,high,medium,high,high,low,low,high,high,high,JH,Rural,Eastern Zone
+569,Pashchimi Singhbhum,low,high,low,low,low,high,low,low,low,medium,low,high,low,low,low,low,low,low,low,low,high,high,medium,low,low,high,high,high,JH,Rural,Eastern Zone
+572,Saraikela Kharsawan,low,medium,low,low,low,low,low,low,medium,high,low,high,low,medium,low,high,medium,high,medium,medium,high,high,high,low,low,high,high,high,JH,Rural,Eastern Zone
+575,Kupwara,medium,medium,low,medium,high,medium,medium,medium,medium,low,low,medium,high,medium,high,high,medium,medium,high,high,low,low,medium,medium,medium,medium,high,low,JK,Rural,Northern Zone
+578,Badgam,low,high,medium,medium,high,high,low,low,medium,low,high,low,high,low,high,high,high,high,high,high,low,low,low,high,medium,medium,medium,low,JK,Rural,Northern Zone
+580,Leh(Ladakh),medium,low,low,low,high,high,high,medium,high,low,high,medium,high,medium,high,high,high,high,high,high,low,low,low,medium,high,low,low,low,JK,Urban,Northern Zone
+581,Leh(Ladakh),low,low,low,low,high,high,medium,medium,high,low,high,low,high,high,high,high,medium,high,high,high,low,low,low,medium,high,low,low,low,JK,Rural,Northern Zone
+584,Kargil,medium,low,low,low,medium,medium,medium,medium,high,low,high,low,high,medium,medium,high,high,medium,high,high,medium,low,low,medium,medium,low,low,low,JK,Rural,Northern Zone
+587,Punch,medium,low,low,medium,medium,low,medium,high,medium,medium,medium,medium,high,high,medium,high,high,medium,high,high,low,low,medium,medium,medium,low,low,low,JK,Rural,Northern Zone
+590,Rajouri,medium,high,low,medium,medium,low,medium,medium,medium,medium,low,high,medium,medium,medium,low,medium,high,high,high,medium,medium,low,medium,medium,low,low,low,JK,Rural,Northern Zone
+593,Kathua,medium,low,low,medium,medium,medium,high,high,high,low,high,medium,high,high,high,high,low,medium,high,high,medium,low,low,high,medium,low,low,medium,JK,Rural,Northern Zone
+596,Baramula,medium,high,medium,high,high,high,medium,medium,medium,low,medium,medium,high,medium,high,high,high,high,high,high,low,low,low,high,high,medium,medium,low,JK,Rural,Northern Zone
+599,Bandipore,medium,low,medium,medium,high,high,medium,low,medium,low,low,medium,high,low,medium,high,medium,medium,high,high,low,low,low,high,high,low,low,low,JK,Rural,Northern Zone
+601,Srinagar,medium,high,high,high,high,high,high,medium,high,low,high,low,high,medium,high,high,high,low,high,high,low,low,low,high,high,low,medium,low,JK,Urban,Northern Zone
+605,Ganderbal,low,high,medium,medium,high,high,low,medium,medium,low,medium,medium,high,low,high,high,high,medium,high,high,low,low,low,high,medium,low,low,low,JK,Rural,Northern Zone
+608,Pulwama,medium,low,medium,high,high,high,medium,medium,high,low,medium,low,high,medium,high,high,medium,medium,high,high,low,low,low,high,high,low,medium,medium,JK,Rural,Northern Zone
+611,Shupiyan,medium,high,medium,medium,high,medium,medium,medium,medium,low,low,low,high,medium,high,high,medium,medium,high,high,low,low,low,high,medium,low,low,low,JK,Rural,Northern Zone
+614,Anantnag,low,low,medium,medium,high,medium,medium,high,medium,low,low,medium,high,low,high,high,high,medium,medium,high,low,low,low,high,medium,low,low,low,JK,Rural,Northern Zone
+617,Kulgam,low,high,high,medium,high,medium,medium,medium,medium,low,low,low,high,medium,high,high,medium,high,high,high,low,low,low,high,medium,low,low,low,JK,Rural,Northern Zone
+620,Doda,low,high,low,medium,low,low,low,medium,medium,medium,low,high,medium,low,low,low,medium,medium,high,high,medium,low,medium,medium,medium,low,low,low,JK,Rural,Northern Zone
+623,Ramban,low,high,low,medium,medium,low,low,low,medium,low,low,high,medium,medium,low,medium,high,medium,high,high,medium,low,low,medium,medium,low,low,medium,JK,Rural,Northern Zone
+626,Kishtwar,low,medium,low,medium,medium,low,low,medium,medium,medium,medium,medium,medium,low,low,high,high,medium,high,high,low,low,low,medium,medium,low,low,high,JK,Rural,Northern Zone
+629,Udhampur,medium,low,low,low,medium,low,medium,medium,medium,low,high,low,high,high,medium,high,low,medium,high,high,high,medium,medium,medium,medium,medium,medium,high,JK,Rural,Northern Zone
+632,Reasi,medium,low,low,medium,medium,low,medium,medium,medium,low,medium,medium,medium,high,low,high,high,medium,high,high,low,low,low,medium,medium,medium,low,low,JK,Rural,Northern Zone
+638,Samba,high,medium,medium,medium,high,high,high,high,high,low,low,high,high,high,medium,high,low,medium,high,high,low,low,medium,high,high,low,low,low,JK,Rural,Northern Zone
+641,Chamba,medium,medium,medium,high,medium,high,medium,high,high,low,medium,medium,medium,medium,low,medium,medium,low,medium,medium,low,medium,medium,medium,medium,high,medium,low,HP,Rural,Northern Zone
+644,Kangra,high,low,high,high,medium,high,high,high,high,low,medium,high,high,high,high,medium,medium,medium,medium,high,low,medium,medium,high,high,low,high,medium,HP,Rural,Northern Zone
+647,Lahul &Spiti,medium,low,high,medium,high,high,high,high,high,low,high,medium,medium,high,medium,medium,medium,medium,high,medium,low,low,low,high,high,high,high,high,HP,Rural,Northern Zone
+650,Kullu,high,high,medium,high,medium,high,high,high,high,medium,high,medium,high,high,low,medium,medium,medium,low,low,low,low,low,high,high,medium,high,low,HP,Rural,Northern Zone
+653,Mandi,high,medium,high,high,medium,high,high,high,high,low,high,medium,medium,medium,low,high,high,medium,high,high,low,low,low,high,medium,low,low,low,HP,Rural,Northern Zone
+656,Hamirpur,high,high,medium,high,medium,high,high,high,high,low,medium,high,high,high,high,low,high,medium,high,high,low,low,low,high,high,low,low,low,HP,Rural,Northern Zone
+659,Una,high,low,high,high,medium,medium,high,high,high,low,low,high,high,high,medium,medium,high,low,high,high,low,low,medium,high,high,medium,medium,medium,HP,Rural,Northern Zone
+662,Bilaspur,high,medium,low,high,medium,high,high,high,high,low,medium,medium,medium,high,medium,medium,high,medium,medium,medium,low,low,medium,high,high,low,low,low,HP,Rural,Northern Zone
+665,Solan,high,high,medium,high,high,high,high,high,high,low,high,low,high,high,medium,high,medium,medium,high,medium,low,low,medium,high,high,high,high,high,HP,Rural,Northern Zone
+668,Sirmaur,medium,low,medium,high,medium,high,high,high,high,low,high,medium,medium,high,medium,high,medium,medium,medium,low,low,medium,medium,high,high,medium,low,low,HP,Rural,Northern Zone
+671,Shimla,high,high,high,high,high,high,high,high,high,low,high,low,high,high,medium,high,medium,medium,high,high,low,low,medium,high,high,high,high,high,HP,Rural,Northern Zone
+674,Kinnaur,medium,low,medium,high,high,high,high,high,high,medium,high,medium,high,high,medium,high,medium,high,high,high,low,low,medium,high,high,high,high,high,HP,Rural,Northern Zone
+676,Gurdaspur,high,low,high,high,high,medium,high,high,high,low,high,low,high,high,medium,high,high,low,low,low,low,low,medium,high,medium,high,medium,medium,PB,Rural,Northern Zone
+678,Kapurthala,high,low,high,high,high,high,high,medium,high,low,high,low,high,high,medium,high,high,medium,medium,medium,low,low,low,high,high,medium,medium,high,PB,Urban,Northern Zone
+681,Jalandhar,high,low,high,high,high,high,high,high,high,low,high,low,high,high,high,high,high,low,low,low,low,low,low,high,high,medium,medium,low,PB,Urban,Northern Zone
+684,Hoshiarpur,high,low,high,high,high,high,high,low,high,low,high,low,high,medium,high,high,medium,low,medium,medium,low,low,low,high,high,medium,high,high,PB,Rural,Northern Zone
+687,Shahid Bhagat Singh Nagar,high,high,high,high,high,high,high,high,high,low,medium,medium,high,high,high,high,high,low,medium,medium,low,low,low,high,high,high,high,high,PB,Rural,Northern Zone
+689,Fatehgarh Sahib,high,low,high,high,high,medium,high,high,high,low,high,low,high,medium,high,high,high,low,low,medium,low,low,low,high,high,medium,high,high,PB,Urban,Northern Zone
+690,Fatehgarh Sahib,high,high,high,high,high,medium,high,high,high,low,high,low,medium,high,high,high,high,medium,low,low,low,low,low,high,high,medium,medium,high,PB,Rural,Northern Zone
+695,Moga,medium,high,high,high,high,high,high,medium,high,low,high,low,high,medium,high,high,high,medium,medium,medium,low,low,low,high,high,low,medium,medium,PB,Rural,Northern Zone
+697,Firozpur,medium,high,high,high,high,high,medium,medium,medium,low,high,low,high,medium,medium,high,medium,low,low,low,low,low,low,high,high,low,high,medium,PB,Rural,Northern Zone
+699,Muktsar,medium,low,high,high,high,high,medium,medium,high,low,high,low,high,high,high,high,high,medium,low,low,low,low,medium,high,high,medium,low,medium,PB,Rural,Northern Zone
+701,Faridkot,high,medium,medium,high,high,high,high,high,high,low,high,low,high,high,high,high,high,medium,medium,medium,medium,low,low,medium,medium,medium,low,high,PB,Urban,Northern Zone
+702,Faridkot,medium,medium,high,high,high,medium,high,low,high,low,high,low,high,high,high,high,high,medium,low,low,medium,low,low,high,medium,medium,low,high,PB,Rural,Northern Zone
+707,Mansa,low,high,high,high,medium,medium,medium,medium,medium,low,high,low,medium,medium,high,high,medium,low,low,medium,low,medium,medium,high,medium,medium,medium,medium,PB,Rural,Northern Zone
+709,Patiala,high,medium,high,high,high,high,high,high,high,low,high,low,high,high,high,high,high,low,high,high,low,low,low,high,high,low,low,low,PB,Urban,Northern Zone
+710,Patiala,medium,medium,high,high,high,medium,high,high,high,low,high,low,medium,medium,high,high,high,medium,medium,medium,low,low,low,high,high,medium,low,medium,PB,Rural,Northern Zone
+713,Amritsar,medium,high,high,high,high,high,medium,low,high,low,high,low,high,high,high,high,medium,medium,medium,medium,low,low,low,high,high,low,medium,medium,PB,Rural,Northern Zone
+715,Tarn Taran,medium,high,high,high,high,high,medium,low,high,low,high,low,medium,high,high,high,high,low,low,low,low,low,medium,high,high,medium,medium,high,PB,Rural,Northern Zone
+717,Rupnagar,high,medium,high,high,high,medium,high,high,high,low,high,medium,high,high,high,high,high,low,medium,low,low,low,medium,high,medium,high,high,medium,PB,Rural,Northern Zone
+719,Sahibzada Ajit Singh Nagar,high,low,high,high,high,high,high,high,high,low,medium,low,high,high,high,high,low,medium,high,medium,low,low,low,high,high,medium,medium,low,PB,Urban,Northern Zone
+720,Sahibzada Ajit Singh Nagar,high,medium,high,high,high,high,high,medium,high,low,high,low,high,high,medium,high,high,medium,low,low,low,low,high,high,high,high,high,high,PB,Rural,Northern Zone
+722,Sangrur,medium,low,high,high,high,low,medium,medium,high,low,high,medium,medium,medium,high,high,medium,low,low,medium,low,low,low,high,high,medium,medium,medium,PB,Rural,Northern Zone
+727,Ganganagar,medium,low,medium,high,medium,medium,medium,medium,medium,medium,high,low,medium,medium,high,high,medium,low,medium,low,low,medium,low,medium,high,low,low,low,RJ,Rural,Northern Zone
+729,Hanumangarh,low,high,medium,medium,medium,medium,medium,medium,medium,medium,high,low,low,low,medium,medium,low,low,low,low,medium,medium,low,medium,medium,low,low,low,RJ,Rural,Northern Zone
+731,Bikaner,high,high,high,high,high,low,high,medium,high,medium,high,low,medium,low,medium,medium,low,low,low,low,low,medium,medium,high,medium,medium,low,low,RJ,Urban,Northern Zone
+732,Bikaner,low,high,low,medium,low,low,low,low,low,high,high,low,low,low,low,medium,low,low,low,low,medium,medium,medium,medium,medium,low,low,low,RJ,Rural,Northern Zone
+734,Churu,low,medium,low,high,low,low,low,low,medium,high,medium,medium,low,low,medium,medium,low,medium,medium,low,medium,high,high,medium,low,low,low,low,RJ,Rural,Northern Zone
+736,Jhunjhunun,low,medium,medium,high,high,medium,medium,high,high,medium,high,medium,medium,medium,high,high,medium,low,low,low,medium,medium,medium,medium,medium,low,low,low,RJ,Rural,Northern Zone
+738,Alwar,low,low,high,medium,low,low,low,high,medium,high,high,medium,low,low,medium,low,low,low,low,low,high,medium,low,medium,medium,medium,low,low,RJ,Rural,Northern Zone
+740,Bharatpur,low,high,low,medium,low,low,low,medium,low,high,medium,high,low,low,medium,low,low,medium,high,medium,high,medium,high,medium,medium,medium,low,low,RJ,Rural,Northern Zone
+742,Dhaulpur,low,medium,medium,low,low,low,low,medium,low,high,medium,medium,low,low,medium,medium,low,medium,low,low,high,high,medium,low,low,low,medium,low,RJ,Rural,Northern Zone
+744,Karauli,low,medium,low,low,low,low,low,medium,low,high,medium,medium,low,low,medium,low,low,medium,low,low,high,high,high,low,low,medium,low,low,RJ,Rural,Northern Zone
+746,Sawai Madhopur,low,low,low,medium,low,low,low,medium,low,high,medium,medium,low,low,medium,low,low,low,low,low,medium,high,high,low,medium,low,low,low,RJ,Rural,Northern Zone
+748,Dausa,low,medium,medium,medium,low,low,low,high,medium,high,medium,medium,low,low,high,low,low,low,low,low,medium,high,medium,low,low,low,low,low,RJ,Rural,Northern Zone
+750,Jaipur,high,low,medium,high,high,medium,high,high,high,medium,high,medium,high,high,high,low,medium,low,low,low,medium,low,low,high,high,low,low,low,RJ,Urban,Northern Zone
+751,Jaipur,low,medium,medium,medium,medium,medium,low,high,medium,high,high,medium,medium,medium,high,medium,low,low,low,low,medium,medium,high,medium,medium,low,low,low,RJ,Rural,Northern Zone
+753,Sikar,low,medium,medium,medium,medium,low,medium,high,medium,medium,high,medium,medium,low,high,medium,low,low,medium,medium,low,medium,medium,medium,medium,low,low,low,RJ,Rural,Northern Zone
+755,Nagaur,low,low,low,medium,medium,low,low,low,low,high,medium,medium,medium,low,high,low,low,low,medium,medium,medium,medium,medium,medium,medium,medium,low,low,RJ,Rural,Northern Zone
+757,Jodhpur,high,medium,high,high,high,high,high,high,high,medium,high,low,medium,medium,high,medium,medium,medium,medium,medium,medium,low,low,high,high,medium,low,medium,RJ,Urban,Northern Zone
+758,Jodhpur,low,low,low,medium,medium,low,low,medium,low,high,medium,medium,low,low,low,low,low,low,low,low,medium,medium,medium,medium,medium,high,medium,low,RJ,Rural,Northern Zone
+760,Jaisalmer,low,low,low,medium,low,low,low,low,low,high,medium,medium,low,low,low,low,low,low,low,low,medium,medium,medium,low,low,low,low,low,RJ,Rural,Northern Zone
+762,Barmer,low,medium,low,low,low,low,low,low,low,high,low,medium,low,low,low,low,low,low,low,low,medium,medium,high,low,medium,medium,low,medium,RJ,Rural,Northern Zone
+764,Jalor,low,medium,low,medium,medium,high,low,low,low,high,medium,medium,low,medium,medium,low,low,low,low,low,high,high,high,low,low,high,high,high,RJ,Rural,Northern Zone
+766,Sirohi,low,high,medium,medium,medium,medium,low,low,low,high,medium,medium,low,medium,medium,low,low,low,medium,medium,high,high,high,low,low,high,high,high,RJ,Rural,Northern Zone
+768,Pali,low,medium,low,medium,medium,medium,low,high,low,high,medium,medium,medium,low,medium,medium,low,low,low,low,high,high,medium,medium,medium,medium,medium,low,RJ,Rural,Northern Zone
+770,Ajmer,high,low,high,high,high,high,high,high,high,low,high,low,medium,low,high,high,low,low,low,low,low,medium,low,high,high,medium,medium,low,RJ,Urban,Northern Zone
+771,Ajmer,low,low,low,high,medium,medium,low,low,low,high,high,low,medium,low,medium,medium,low,low,low,low,medium,medium,medium,medium,medium,high,medium,low,RJ,Rural,Northern Zone
+773,Tonk,low,high,medium,low,low,medium,low,high,low,high,high,low,medium,medium,high,high,low,medium,medium,medium,medium,high,high,low,low,high,high,medium,RJ,Rural,Northern Zone
+775,Bundi,low,high,medium,low,low,medium,low,low,low,high,medium,low,low,low,high,medium,low,low,low,low,medium,high,medium,low,low,high,high,high,RJ,Rural,Northern Zone
+777,Bhilwara,low,medium,low,low,low,medium,low,medium,low,high,medium,medium,medium,medium,medium,medium,low,medium,medium,low,medium,medium,high,medium,low,high,medium,high,RJ,Rural,Northern Zone
+779,Rajsamand,low,low,low,low,medium,low,low,low,low,high,medium,medium,medium,low,medium,medium,low,low,low,low,medium,high,high,medium,low,high,high,medium,RJ,Rural,Northern Zone
+781,Dungarpur,low,low,medium,medium,medium,low,low,low,medium,medium,high,low,medium,low,medium,medium,low,low,low,low,high,high,medium,low,low,high,high,high,RJ,Rural,Northern Zone
+783,Banswara,low,high,medium,low,low,low,low,low,low,medium,medium,low,medium,low,high,low,low,medium,low,low,high,high,high,low,low,high,high,high,RJ,Rural,Northern Zone
+785,Chittaurgarh,low,high,medium,low,low,high,low,low,low,high,low,high,low,low,medium,low,low,low,low,low,medium,high,high,medium,low,high,high,high,RJ,Rural,Northern Zone
+787,Kota,high,low,high,high,high,medium,high,high,high,low,high,low,medium,high,high,high,low,low,low,low,low,medium,medium,high,high,high,medium,high,RJ,Urban,Northern Zone
+788,Kota,low,low,medium,medium,medium,medium,low,low,low,medium,high,low,medium,low,high,medium,low,medium,low,low,medium,high,high,medium,low,high,high,high,RJ,Rural,Northern Zone
+790,Baran,low,low,medium,low,medium,medium,low,medium,low,high,high,low,medium,low,high,medium,medium,medium,low,low,high,high,high,low,low,high,high,high,RJ,Rural,Northern Zone
+792,Jhalawar,low,low,low,medium,medium,medium,low,low,low,high,high,low,low,medium,high,high,medium,low,low,low,medium,high,high,low,low,high,high,medium,RJ,Rural,Northern Zone
+794,Udaipur,low,high,low,low,low,low,low,medium,low,high,low,medium,medium,low,low,low,low,low,low,low,high,high,high,low,low,high,high,high,RJ,Rural,Northern Zone
+796,Pratapgarh,low,low,low,low,low,medium,low,low,low,high,high,low,low,medium,high,medium,medium,low,low,low,high,high,medium,low,low,high,high,high,RJ,Rural,Northern Zone
+798,Kachchh,medium,low,low,high,high,medium,medium,medium,medium,medium,medium,high,medium,medium,medium,low,medium,high,high,high,medium,medium,low,high,high,high,high,medium,GJ,Urban,Western Zone
+799,Kachchh,low,high,medium,medium,medium,medium,low,medium,low,medium,low,high,medium,high,medium,low,high,low,low,low,medium,medium,high,medium,high,high,high,medium,GJ,Rural,Western Zone
+801,Banaskantha,low,high,high,medium,medium,medium,low,medium,low,high,medium,high,medium,medium,high,low,medium,medium,medium,medium,medium,high,high,low,medium,medium,medium,low,GJ,Rural,Western Zone
+803,Patan,low,medium,medium,medium,medium,medium,low,low,low,high,medium,high,high,medium,high,low,high,medium,low,low,medium,high,high,medium,medium,high,medium,medium,GJ,Rural,Western Zone
+805,Mahesana,high,low,medium,high,high,medium,medium,medium,medium,high,medium,medium,high,medium,high,low,medium,high,medium,low,medium,high,high,medium,medium,high,high,high,GJ,Rural,Western Zone
+807,Sabarkantha,medium,medium,medium,medium,medium,low,medium,high,medium,high,medium,high,medium,medium,medium,low,medium,medium,low,low,high,high,high,medium,medium,high,high,high,GJ,Rural,Western Zone
+812,Ahmadabad,high,medium,medium,high,high,medium,high,high,high,medium,medium,medium,high,high,high,low,medium,medium,medium,medium,low,medium,medium,high,high,high,high,medium,GJ,Urban,Western Zone
+814,Surendranagar,low,high,low,medium,medium,low,low,medium,low,medium,medium,high,medium,medium,medium,low,high,medium,low,low,high,high,high,medium,medium,high,high,high,GJ,Rural,Western Zone
+819,Jamnagar,high,high,medium,high,high,medium,high,medium,medium,low,low,high,high,high,high,medium,medium,low,high,high,medium,low,low,high,medium,high,high,medium,GJ,Urban,Western Zone
+823,Porbandar,medium,low,low,high,medium,high,medium,high,low,medium,low,high,medium,high,high,high,high,high,low,low,low,low,medium,medium,medium,high,high,medium,GJ,Rural,Western Zone
+828,Amreli,medium,low,medium,high,high,low,high,medium,medium,low,medium,medium,medium,medium,medium,medium,high,high,medium,medium,medium,low,low,high,high,high,high,medium,GJ,Rural,Western Zone
+834,Anand,high,medium,high,medium,medium,low,medium,high,medium,high,medium,medium,high,high,high,medium,high,high,low,low,high,high,high,medium,low,medium,medium,medium,GJ,Rural,Western Zone
+836,Kheda,medium,low,high,medium,medium,medium,medium,high,medium,high,low,high,medium,medium,high,low,high,high,medium,medium,high,high,high,medium,low,medium,medium,medium,GJ,Rural,Western Zone
+838,Panchmahal,medium,medium,low,medium,low,low,low,high,medium,high,low,high,medium,medium,medium,low,medium,low,medium,low,high,high,high,low,medium,medium,medium,medium,GJ,Rural,Western Zone
+840,Dohad,low,high,low,low,low,low,low,low,medium,high,low,high,medium,low,medium,low,high,medium,medium,medium,high,high,high,low,low,medium,medium,medium,GJ,Rural,Western Zone
+845,Narmada,medium,medium,high,medium,low,medium,medium,medium,low,high,high,medium,high,high,medium,medium,medium,high,low,low,high,high,high,low,medium,medium,medium,medium,GJ,Rural,Western Zone
+847,Bharuch,high,high,low,high,high,high,high,high,high,medium,high,low,high,high,high,high,medium,high,high,high,medium,medium,medium,high,high,low,medium,low,GJ,Urban,Western Zone
+848,Bharuch,medium,high,medium,medium,medium,medium,medium,medium,low,medium,high,medium,high,high,medium,low,high,high,medium,medium,high,high,high,medium,medium,medium,medium,medium,GJ,Rural,Western Zone
+850,The Dangs,medium,medium,low,low,low,medium,low,low,low,high,medium,medium,medium,high,low,low,high,medium,low,low,high,high,high,low,low,high,high,high,GJ,Rural,Western Zone
+856,Valsad,medium,high,low,medium,high,low,medium,high,high,low,medium,medium,medium,medium,low,medium,high,high,low,low,high,medium,low,high,medium,medium,medium,low,GJ,Rural,Western Zone
+858,Surat,high,low,medium,high,high,medium,high,high,high,low,medium,high,high,high,high,low,high,high,low,low,low,low,medium,high,high,low,low,low,GJ,Urban,Western Zone
+860,Tapi,medium,low,medium,medium,medium,medium,medium,medium,medium,low,medium,medium,high,high,medium,high,high,low,medium,medium,medium,high,high,low,low,low,medium,medium,GJ,Rural,Western Zone
+863,Panchkula,medium,low,high,high,high,medium,high,high,high,low,high,low,high,high,high,high,high,medium,medium,high,low,low,low,high,high,high,medium,medium,HR,Rural,Northern Zone
+866,Ambala,high,low,high,high,high,low,high,high,high,low,high,low,medium,high,high,high,high,high,high,high,low,low,medium,medium,low,high,high,medium,HR,Rural,Northern Zone
+871,Kurukshetra,medium,low,high,high,high,low,high,high,high,low,high,low,medium,medium,high,high,high,medium,medium,high,medium,low,low,medium,high,medium,medium,high,HR,Rural,Northern Zone
+873,Kaithal,medium,low,high,high,medium,low,medium,medium,medium,medium,high,low,medium,high,medium,high,high,medium,medium,low,medium,low,medium,high,high,high,high,low,HR,Rural,Northern Zone
+875,Karnal,high,low,high,high,high,medium,high,high,high,low,high,low,high,high,high,high,high,medium,low,low,medium,low,low,high,high,medium,high,medium,HR,Urban,Northern Zone
+876,Karnal,medium,medium,high,high,high,low,high,medium,high,low,high,low,medium,high,high,high,high,high,medium,medium,high,low,low,high,high,high,high,low,HR,Rural,Northern Zone
+878,Panipat,high,low,high,high,high,medium,high,high,high,low,high,low,medium,medium,medium,medium,high,low,low,medium,high,low,low,high,high,high,high,low,HR,Urban,Northern Zone
+881,Sonipat,high,medium,medium,high,high,high,high,high,high,medium,high,low,low,high,medium,low,high,low,low,low,high,low,low,high,high,medium,high,low,HR,Urban,Northern Zone
+882,Sonipat,medium,low,medium,high,medium,medium,high,high,high,medium,high,low,medium,medium,medium,high,high,low,medium,medium,medium,low,low,high,high,medium,high,high,HR,Rural,Northern Zone
+884,Jind,medium,high,medium,high,medium,medium,high,medium,high,low,high,low,medium,medium,high,high,high,high,medium,medium,low,low,low,medium,medium,high,high,medium,HR,Rural,Northern Zone
+886,Fatehabad,medium,medium,high,high,medium,medium,medium,high,medium,medium,high,low,medium,high,high,high,medium,high,high,medium,low,medium,low,medium,medium,high,high,high,HR,Rural,Northern Zone
+888,Sirsa,low,low,high,high,medium,low,medium,low,medium,low,high,low,medium,high,medium,high,high,high,low,low,medium,medium,low,medium,high,high,high,medium,HR,Rural,Northern Zone
+891,Hisar,medium,low,medium,high,medium,low,medium,medium,medium,medium,high,low,low,medium,high,high,high,medium,low,low,low,low,low,medium,high,medium,high,high,HR,Rural,Northern Zone
+893,Bhiwani,medium,high,medium,high,medium,low,high,medium,high,medium,high,low,medium,medium,medium,high,high,medium,low,low,medium,medium,medium,medium,high,high,high,low,HR,Rural,Northern Zone
+895,Rohtak,high,low,high,high,high,high,high,medium,high,medium,high,low,medium,medium,medium,medium,medium,high,medium,medium,medium,low,low,high,high,high,medium,low,HR,Urban,Northern Zone
+896,Rohtak,medium,high,high,high,medium,medium,high,high,high,medium,high,low,medium,medium,medium,medium,medium,medium,low,low,medium,low,low,medium,medium,high,high,medium,HR,Rural,Northern Zone
+898,Jhajjar,medium,low,medium,high,medium,low,high,high,high,low,high,low,medium,medium,high,medium,high,medium,high,high,low,low,low,high,medium,high,high,medium,HR,Rural,Northern Zone
+900,Mahendragarh,medium,low,medium,high,medium,low,high,high,high,low,high,low,medium,medium,high,high,high,high,high,high,low,medium,medium,medium,medium,high,high,high,HR,Rural,Northern Zone
+902,Rewari,medium,low,medium,high,medium,medium,high,high,high,medium,medium,medium,low,medium,high,low,medium,medium,low,low,low,medium,medium,medium,medium,high,high,low,HR,Rural,Northern Zone
+904,Gurgaon,high,medium,high,high,high,medium,medium,medium,high,high,medium,medium,medium,medium,low,low,high,low,medium,medium,high,low,low,high,high,medium,high,medium,HR,Urban,Northern Zone
+905,Gurgaon,high,medium,medium,high,high,medium,high,high,high,medium,medium,medium,low,low,medium,low,medium,low,low,medium,low,low,low,high,high,high,high,medium,HR,Rural,Northern Zone
+907,Mewat,low,medium,low,medium,low,low,low,low,low,high,low,high,low,low,low,low,low,medium,low,low,high,medium,high,low,medium,high,high,medium,HR,Rural,Northern Zone
+909,Faridabad,high,low,low,high,high,low,high,high,high,medium,low,high,low,medium,medium,low,low,high,high,high,low,low,low,high,high,high,medium,low,HR,Urban,Northern Zone
+911,Palwal,low,medium,medium,high,medium,low,low,high,medium,medium,low,high,low,low,low,low,low,low,medium,medium,medium,low,low,medium,high,high,high,low,HR,Rural,Northern Zone
+916,South Goa,high,low,high,high,high,high,high,high,high,low,medium,medium,high,high,high,high,high,high,medium,medium,low,low,low,high,high,medium,low,low,GA,Urban,Western Zone
+919,North West,high,low,low,high,high,medium,high,high,high,low,medium,medium,high,high,medium,high,medium,medium,medium,medium,medium,low,high,high,medium,high,medium,high,DL,Urban,Northern Zone
+922,North,high,high,medium,high,high,medium,high,medium,high,low,medium,high,high,high,high,low,medium,low,low,low,low,low,medium,high,high,medium,medium,high,DL,Urban,Northern Zone
+925,North East,high,low,high,high,high,high,high,medium,high,low,medium,medium,medium,high,medium,medium,medium,low,high,medium,low,low,low,high,high,low,low,medium,DL,Urban,Northern Zone
+928,East,high,low,medium,high,high,medium,high,high,high,low,low,high,medium,high,medium,medium,medium,low,low,low,low,low,medium,high,high,low,low,low,DL,Urban,Northern Zone
+934,Central,high,high,medium,high,high,high,high,high,high,low,medium,medium,high,high,high,medium,medium,low,high,medium,medium,low,low,high,medium,high,medium,medium,DL,Urban,Northern Zone
+940,South West,high,low,low,high,high,high,high,low,high,medium,medium,medium,high,high,high,high,medium,low,medium,low,medium,low,low,high,high,medium,high,medium,DL,Urban,Northern Zone
+943,South,high,low,low,high,high,medium,high,high,high,low,medium,high,high,high,medium,low,low,low,low,medium,low,low,low,high,high,high,high,low,DL,Urban,Northern Zone
+946,Belgaum,medium,medium,high,medium,medium,medium,medium,medium,medium,high,high,low,high,high,high,medium,high,high,low,low,medium,medium,low,medium,high,high,low,low,KA,Rural,Southern Zone
+948,Bagalkot,high,low,low,medium,high,low,medium,low,high,medium,high,medium,high,high,high,high,high,high,low,low,high,medium,medium,high,high,medium,low,low,KA,Urban,Southern Zone
+949,Bagalkot,low,medium,medium,low,medium,low,low,low,medium,high,high,low,high,high,high,high,high,high,medium,medium,high,medium,medium,medium,low,medium,low,low,KA,Rural,Southern Zone
+951,Bijapur,low,high,medium,low,medium,low,medium,low,medium,high,high,low,medium,high,high,medium,medium,medium,low,low,high,medium,low,medium,medium,high,low,medium,KA,Rural,Southern Zone
+953,Bidar,low,high,medium,low,medium,low,medium,medium,high,medium,high,low,high,high,high,medium,high,high,medium,medium,high,high,medium,medium,medium,high,low,medium,KA,Rural,Southern Zone
+955,Raichur,low,high,low,low,low,low,low,low,low,medium,high,low,medium,high,medium,medium,high,high,low,low,medium,medium,low,medium,high,high,high,medium,KA,Rural,Southern Zone
+957,Koppal,medium,medium,medium,medium,medium,low,low,low,medium,high,medium,medium,medium,medium,medium,high,high,high,low,low,high,medium,medium,low,medium,high,medium,medium,KA,Rural,Southern Zone
+962,Dharwad,high,low,high,high,high,medium,high,high,high,medium,high,medium,high,high,high,low,high,high,medium,medium,medium,low,low,high,high,medium,low,low,KA,Urban,Southern Zone
+963,Dharwad,medium,medium,medium,medium,medium,low,medium,low,medium,medium,high,low,high,high,high,high,medium,high,low,low,high,low,low,medium,high,low,medium,medium,KA,Rural,Southern Zone
+965,Uttara Kannada,high,low,low,high,high,low,high,medium,high,low,low,medium,high,medium,high,medium,high,high,low,high,medium,high,high,medium,low,medium,low,low,KA,Rural,Southern Zone
+967,Haveri,medium,medium,medium,medium,medium,low,medium,medium,medium,medium,medium,low,high,medium,high,medium,high,high,low,low,high,medium,medium,medium,medium,medium,medium,low,KA,Rural,Southern Zone
+969,Bellary,medium,medium,high,high,high,low,medium,medium,medium,medium,high,medium,high,high,medium,high,high,high,low,low,high,medium,low,high,high,high,low,medium,KA,Urban,Southern Zone
+970,Bellary,low,medium,medium,low,high,low,low,low,low,high,medium,low,high,high,medium,high,high,medium,medium,medium,high,medium,high,medium,medium,high,medium,medium,KA,Rural,Southern Zone
+972,Chitradurga,medium,low,medium,medium,medium,low,medium,medium,high,medium,high,low,high,high,high,low,high,high,medium,high,medium,medium,low,low,high,medium,low,medium,KA,Rural,Southern Zone
+974,Davanagere,high,medium,high,high,high,low,high,medium,high,low,medium,medium,high,high,high,low,high,high,high,high,high,low,low,high,high,medium,low,low,KA,Urban,Southern Zone
+975,Davanagere,medium,high,medium,medium,medium,low,medium,low,high,medium,high,low,high,high,high,high,high,high,medium,medium,high,medium,medium,high,medium,high,medium,medium,KA,Rural,Southern Zone
+984,Tumkur,medium,low,medium,medium,medium,low,medium,medium,high,medium,high,low,high,high,high,high,high,high,medium,medium,low,medium,medium,medium,medium,medium,medium,low,KA,Rural,Southern Zone
+986,Bangalore,high,low,medium,high,high,medium,high,high,high,low,medium,medium,medium,high,high,medium,high,medium,high,high,low,low,low,high,high,medium,low,medium,KA,Urban,Southern Zone
+988,Mandya,low,medium,medium,medium,high,low,medium,medium,high,medium,high,low,high,medium,high,medium,high,medium,low,high,low,medium,low,high,high,medium,low,medium,KA,Rural,Southern Zone
+995,Kodagu,high,high,low,high,high,low,high,medium,high,low,medium,medium,high,medium,high,medium,high,medium,medium,high,low,medium,medium,high,high,low,low,low,KA,Rural,Southern Zone
+998,Mysore,medium,medium,medium,medium,high,low,low,medium,medium,medium,high,low,high,high,high,low,high,high,medium,medium,low,medium,low,medium,high,medium,low,low,KA,Rural,Southern Zone
+1002,Gulbarga,high,high,high,medium,high,low,medium,high,high,medium,medium,low,high,medium,high,low,high,high,low,low,high,low,high,high,medium,high,low,low,KA,Urban,Southern Zone
+1003,Gulbarga,low,low,medium,low,low,low,low,low,medium,medium,high,low,high,medium,high,high,high,high,low,low,high,medium,medium,low,high,high,low,low,KA,Rural,Southern Zone
+1005,Yadgir,low,low,medium,low,low,low,low,low,low,high,medium,low,medium,medium,high,low,high,high,low,medium,high,medium,low,low,low,high,medium,low,KA,Rural,Southern Zone
+1012,Bangalore Rural,medium,high,low,high,high,low,medium,medium,high,medium,high,medium,high,high,high,medium,high,high,low,medium,low,medium,medium,high,high,low,medium,medium,KA,Rural,Southern Zone
+1013,Bangalore Rural - Total,medium,high,low,high,high,low,high,high,high,medium,high,medium,high,high,high,medium,high,high,low,medium,low,medium,medium,high,high,low,medium,medium,KA,Rural,Southern Zone
+1014,Ramanagara,low,medium,medium,medium,high,low,medium,medium,high,medium,high,low,high,medium,high,low,high,high,low,medium,low,medium,medium,medium,high,medium,medium,medium,KA,Rural,Southern Zone
+1016,Sheopur,low,medium,medium,low,low,medium,low,low,low,high,high,medium,low,medium,medium,low,medium,medium,low,low,high,high,high,low,low,high,high,high,MP,Rural,Central Zone
+1018,Morena,low,high,medium,low,low,low,low,medium,low,medium,high,medium,medium,low,high,medium,medium,medium,low,low,high,high,high,low,low,medium,medium,high,MP,Rural,Central Zone
+1020,Bhind,low,low,medium,low,low,low,low,medium,medium,high,high,medium,low,medium,medium,low,medium,medium,low,low,high,high,high,medium,medium,high,high,high,MP,Rural,Central Zone
+1022,Gwalior,high,low,high,high,high,high,high,medium,high,low,medium,medium,medium,medium,high,low,medium,low,low,low,medium,medium,medium,medium,medium,high,medium,high,MP,Urban,Central Zone
+1023,Gwalior,low,medium,medium,medium,medium,medium,low,low,low,high,medium,medium,low,medium,medium,low,medium,low,low,low,high,medium,high,low,low,high,high,high,MP,Rural,Central Zone
+1025,Datia,low,low,medium,low,low,low,low,low,low,high,high,medium,low,low,medium,low,low,low,medium,low,high,high,high,low,low,high,high,high,MP,Rural,Central Zone
+1027,Shivpuri,low,high,low,low,low,low,low,low,low,high,high,medium,low,low,medium,medium,medium,medium,medium,medium,high,high,high,low,low,high,medium,medium,MP,Rural,Central Zone
+1029,Tikamgarh,low,medium,low,low,low,low,low,medium,low,high,medium,medium,low,low,medium,low,low,medium,low,low,high,high,high,low,low,high,low,medium,MP,Rural,Central Zone
+1031,Chhatarpur,low,low,low,low,low,low,low,medium,low,high,medium,medium,low,low,medium,low,low,medium,high,medium,high,high,high,low,low,high,medium,medium,MP,Rural,Central Zone
+1033,Panna,low,low,low,low,low,low,low,low,low,high,medium,high,low,low,low,low,low,low,high,high,high,medium,high,low,low,high,medium,low,MP,Rural,Central Zone
+1035,Sagar,medium,low,low,low,low,low,low,medium,low,high,medium,medium,low,medium,medium,low,low,low,medium,medium,medium,medium,high,medium,low,high,low,low,MP,Rural,Central Zone
+1037,Damoh,low,medium,low,low,low,low,low,medium,low,high,low,medium,low,medium,low,low,low,medium,medium,medium,high,high,high,low,low,high,medium,medium,MP,Rural,Central Zone
+1039,Satna,medium,high,medium,low,low,low,medium,high,low,high,medium,medium,low,low,medium,low,medium,low,low,low,high,medium,high,medium,low,high,medium,high,MP,Rural,Central Zone
+1041,Rewa,medium,medium,low,low,low,low,medium,medium,low,high,high,medium,low,low,medium,low,medium,medium,low,low,medium,medium,high,medium,medium,medium,low,medium,MP,Rural,Central Zone
+1043,Umaria,low,high,low,low,low,low,low,low,low,high,medium,medium,low,low,medium,medium,medium,medium,medium,medium,medium,high,high,low,low,high,high,high,MP,Rural,Central Zone
+1045,Neemuch,low,low,low,low,medium,medium,low,medium,low,high,low,medium,medium,medium,medium,low,medium,low,medium,medium,medium,high,low,medium,medium,high,medium,medium,MP,Rural,Central Zone
+1047,Mandsaur,low,low,low,low,medium,medium,low,medium,low,high,low,medium,low,low,medium,low,medium,medium,low,low,medium,high,high,low,medium,medium,medium,medium,MP,Rural,Central Zone
+1049,Ratlam,low,medium,low,low,medium,low,low,medium,low,high,low,medium,low,low,medium,low,medium,low,medium,medium,high,high,high,low,low,high,medium,medium,MP,Rural,Central Zone
+1051,Ujjain,high,medium,high,high,high,high,high,high,high,medium,medium,high,medium,medium,high,medium,high,low,medium,medium,medium,medium,medium,high,high,high,medium,low,MP,Urban,Central Zone
+1052,Ujjain,low,high,medium,medium,medium,medium,low,medium,low,high,low,medium,low,low,medium,medium,medium,low,medium,medium,medium,high,high,low,low,high,medium,medium,MP,Rural,Central Zone
+1054,Shajapur,low,medium,low,low,low,medium,low,medium,low,high,medium,medium,medium,medium,high,medium,low,low,low,low,high,high,high,low,medium,high,medium,high,MP,Rural,Central Zone
+1056,Dewas,low,high,medium,medium,medium,high,low,medium,low,high,high,medium,medium,medium,high,medium,medium,low,high,high,high,high,medium,low,medium,high,medium,medium,MP,Rural,Central Zone
+1058,Dhar,low,medium,low,low,medium,medium,low,low,low,high,medium,low,low,low,medium,medium,medium,low,high,high,high,high,high,low,medium,high,medium,medium,MP,Rural,Central Zone
+1060,Indore,high,low,high,high,high,high,high,high,high,low,high,medium,high,high,high,medium,medium,low,high,high,medium,low,medium,high,high,high,medium,medium,MP,Urban,Central Zone
+1062,Khargone (West Nimar),low,high,medium,low,medium,high,low,low,low,medium,high,low,medium,medium,low,medium,high,low,medium,medium,high,high,high,low,low,high,high,high,MP,Rural,Central Zone
+1064,Barwani,low,low,low,low,low,medium,low,low,low,high,medium,low,low,medium,low,low,low,medium,low,low,high,high,high,low,low,high,high,high,MP,Rural,Central Zone
+1066,Rajgarh,low,high,low,low,low,medium,low,low,low,high,medium,medium,medium,low,medium,low,low,medium,low,low,medium,high,high,low,low,medium,medium,low,MP,Rural,Central Zone
+1068,Vidisha,medium,high,medium,low,low,low,low,low,low,high,low,high,low,low,low,low,low,medium,medium,medium,high,medium,high,medium,low,high,low,medium,MP,Rural,Central Zone
+1070,Bhopal,high,medium,medium,high,high,high,high,high,high,low,medium,high,medium,high,high,medium,medium,low,medium,medium,high,medium,medium,high,high,high,medium,medium,MP,Urban,Central Zone
+1072,Sehore,low,medium,low,medium,low,medium,low,medium,low,high,high,medium,medium,medium,medium,medium,medium,low,medium,medium,medium,medium,high,medium,medium,high,medium,medium,MP,Rural,Central Zone
+1074,Raisen,medium,medium,medium,medium,low,low,low,low,low,high,high,low,medium,medium,medium,high,high,medium,low,low,high,high,high,low,low,high,medium,medium,MP,Rural,Central Zone
+1076,Betul,medium,low,low,low,low,medium,medium,low,medium,low,high,low,low,medium,low,medium,medium,medium,medium,medium,medium,high,medium,low,low,medium,medium,high,MP,Rural,Central Zone
+1078,Harda,low,low,low,medium,medium,high,low,low,low,medium,medium,low,medium,medium,medium,low,high,low,low,low,medium,medium,high,medium,medium,high,medium,high,MP,Rural,Central Zone
+1080,Hoshangabad,high,high,high,high,high,high,high,high,high,low,medium,medium,medium,high,high,medium,high,low,low,low,low,low,low,high,medium,high,medium,high,MP,Urban,Central Zone
+1081,Hoshangabad,medium,medium,medium,medium,medium,high,medium,medium,low,medium,high,low,medium,medium,medium,low,medium,medium,low,low,medium,medium,medium,low,low,high,medium,high,MP,Rural,Central Zone
+1083,Katni,medium,high,medium,low,low,low,medium,low,low,medium,medium,low,low,medium,medium,low,high,medium,high,high,high,high,medium,medium,medium,high,medium,medium,MP,Rural,Central Zone
+1085,Jabalpur,high,low,high,high,high,medium,high,high,high,low,high,medium,high,high,high,medium,medium,medium,medium,medium,low,medium,medium,high,high,medium,low,medium,MP,Urban,Central Zone
+1086,Jabalpur,medium,high,medium,low,low,low,medium,medium,low,medium,high,low,medium,medium,medium,high,high,high,medium,medium,high,high,high,medium,medium,medium,medium,medium,MP,Rural,Central Zone
+1088,Narsimhapur,medium,low,medium,medium,low,medium,medium,medium,low,high,medium,low,low,medium,medium,low,medium,low,medium,medium,medium,medium,high,medium,medium,high,medium,low,MP,Rural,Central Zone
+1090,Dindori,low,medium,low,low,low,low,low,low,low,high,high,low,low,low,low,low,medium,medium,low,low,high,high,high,low,low,high,high,high,MP,Rural,Central Zone
+1092,Mandla,low,medium,low,low,low,low,low,low,low,medium,high,low,medium,medium,low,low,medium,high,low,low,medium,high,high,low,low,high,high,high,MP,Rural,Central Zone
+1094,Chhindwara,medium,medium,low,low,low,medium,medium,low,medium,medium,high,low,medium,high,medium,medium,high,medium,high,medium,medium,high,medium,medium,low,high,medium,medium,MP,Rural,Central Zone
+1096,Seoni,medium,medium,low,low,low,low,medium,low,low,medium,high,low,medium,high,medium,low,medium,medium,high,high,medium,high,high,low,medium,medium,medium,medium,MP,Rural,Central Zone
+1098,Balaghat,high,high,low,low,low,medium,medium,medium,medium,low,high,low,medium,medium,medium,medium,medium,high,low,low,medium,high,high,low,low,high,high,high,MP,Rural,Central Zone
+1100,Guna,low,high,low,low,low,low,low,low,low,high,high,medium,low,medium,medium,medium,medium,medium,low,low,medium,high,high,low,low,high,low,low,MP,Rural,Central Zone
+1102,Ashoknagar,low,medium,medium,low,low,low,low,low,low,high,high,medium,medium,low,medium,low,medium,low,medium,medium,medium,high,high,low,low,medium,low,medium,MP,Rural,Central Zone
+1104,Shahdol,low,medium,low,low,low,low,low,medium,low,high,medium,medium,low,medium,low,low,medium,high,medium,medium,medium,high,high,low,low,high,high,high,MP,Rural,Central Zone
+1106,Anuppur,low,low,low,low,low,low,low,low,low,high,medium,medium,low,medium,medium,low,medium,medium,medium,medium,medium,high,high,low,low,high,high,high,MP,Rural,Central Zone
+1108,Sidhi,medium,low,low,low,low,low,low,medium,low,high,low,high,low,low,low,low,low,medium,medium,medium,high,medium,high,low,low,high,medium,medium,MP,Rural,Central Zone
+1110,Singrauli,low,high,low,low,low,low,low,low,low,high,low,medium,low,low,low,low,low,medium,high,high,medium,medium,medium,low,low,medium,medium,high,MP,Rural,Central Zone
+1112,Jhabua,low,high,low,low,low,low,low,low,low,high,low,medium,low,medium,medium,low,low,low,medium,medium,high,high,high,low,low,high,high,high,MP,Rural,Central Zone
+1114,Alirajpur,low,medium,medium,low,low,low,low,low,low,high,low,low,low,low,low,low,medium,low,low,low,high,high,high,low,low,high,high,high,MP,Rural,Central Zone
+1116,Khandwa (East Nimar),low,low,low,low,medium,medium,low,low,low,medium,high,low,medium,medium,medium,low,high,low,low,low,high,high,high,low,low,high,high,medium,MP,Rural,Central Zone
+1118,Burhanpur,high,low,high,medium,high,high,high,low,high,low,high,medium,medium,medium,high,medium,medium,medium,low,low,medium,medium,medium,high,high,high,high,high,MP,Urban,Central Zone
+1119,Burhanpur,low,medium,medium,medium,medium,high,low,low,low,medium,high,low,medium,medium,low,low,medium,medium,low,low,high,high,high,low,low,high,high,high,MP,Rural,Central Zone
+1121,Kokrajhar,medium,low,low,medium,medium,high,medium,low,low,high,medium,medium,medium,medium,low,low,low,high,high,high,low,medium,medium,low,medium,low,medium,medium,AS,Rural,North Eastern Zone
+1123,Dhubri,medium,low,medium,medium,low,high,low,low,low,high,low,high,low,low,low,low,low,high,medium,medium,high,high,low,low,medium,low,medium,high,AS,Rural,North Eastern Zone
+1125,Goalpara,medium,low,low,medium,low,high,medium,low,low,high,low,high,medium,medium,low,low,medium,high,high,high,high,medium,low,low,medium,low,medium,high,AS,Rural,North Eastern Zone
+1127,Barpeta,medium,medium,high,medium,medium,high,medium,medium,medium,high,medium,low,medium,medium,low,low,low,high,medium,medium,medium,medium,high,medium,medium,low,low,medium,AS,Rural,North Eastern Zone
+1129,Morigaon,high,high,high,medium,medium,high,medium,low,low,high,low,medium,medium,medium,low,low,low,high,medium,medium,medium,high,high,low,low,low,low,medium,AS,Rural,North Eastern Zone
+1131,Nagaon,high,high,medium,medium,low,high,medium,low,low,high,medium,high,medium,medium,low,low,low,high,high,medium,medium,high,high,medium,low,low,low,low,AS,Rural,North Eastern Zone
+1133,Sonitpur,high,medium,low,high,medium,high,medium,medium,low,medium,medium,low,medium,high,high,low,medium,high,medium,medium,low,medium,medium,medium,medium,low,medium,high,AS,Rural,North Eastern Zone
+1135,Lakhimpur,high,high,low,medium,medium,high,high,medium,high,medium,medium,high,medium,high,medium,low,low,high,high,high,low,medium,low,medium,medium,low,low,medium,AS,Rural,North Eastern Zone
+1137,Dhemaji,high,medium,medium,medium,low,high,medium,medium,medium,high,low,high,medium,medium,medium,low,low,high,medium,medium,medium,low,low,medium,medium,low,low,low,AS,Rural,North Eastern Zone
+1139,Tinsukia,medium,low,medium,medium,low,high,low,low,low,medium,medium,medium,medium,medium,medium,low,medium,high,medium,medium,medium,high,high,low,low,low,medium,high,AS,Rural,North Eastern Zone
+1141,Dibrugarh,high,medium,high,medium,medium,high,medium,low,medium,medium,medium,medium,high,high,medium,medium,medium,high,high,high,medium,high,high,low,medium,medium,medium,high,AS,Rural,North Eastern Zone
+1143,Sivasagar,high,high,medium,medium,medium,high,high,low,medium,medium,low,medium,high,high,medium,high,medium,high,high,high,medium,high,high,medium,medium,low,low,low,AS,Rural,North Eastern Zone
+1145,Jorhat,high,low,low,high,medium,high,high,high,medium,medium,low,medium,high,high,high,medium,medium,high,low,low,low,high,medium,low,medium,low,low,medium,AS,Rural,North Eastern Zone
+1147,Golaghat,high,high,medium,high,low,high,medium,medium,medium,medium,low,medium,medium,high,high,medium,medium,high,high,high,low,medium,medium,medium,medium,low,medium,high,AS,Rural,North Eastern Zone
+1149,Karbi Anglong,medium,medium,low,medium,low,high,medium,low,low,medium,medium,medium,medium,medium,low,low,low,high,high,high,low,medium,low,medium,medium,low,low,low,AS,Rural,North Eastern Zone
+1151,Dima Hasao,medium,medium,low,medium,low,high,medium,low,low,medium,low,high,low,medium,low,medium,low,high,medium,low,medium,low,low,low,low,low,low,low,AS,Rural,North Eastern Zone
+1153,Cachar,high,medium,low,medium,medium,high,medium,medium,low,medium,low,medium,medium,medium,low,low,medium,low,low,low,medium,high,high,low,low,low,medium,high,AS,Rural,North Eastern Zone
+1155,Karimganj,high,medium,low,medium,medium,high,high,high,low,medium,low,medium,medium,medium,low,low,medium,low,medium,medium,high,high,high,low,low,low,low,medium,AS,Rural,North Eastern Zone
+1157,Hailakandi,high,medium,low,medium,low,high,medium,medium,low,medium,low,high,medium,medium,low,low,high,low,medium,medium,medium,high,medium,low,low,low,medium,medium,AS,Rural,North Eastern Zone
+1159,Bongaigaon,medium,low,low,medium,medium,high,medium,medium,low,high,medium,medium,low,medium,low,low,medium,high,high,high,medium,medium,low,medium,high,low,medium,medium,AS,Rural,North Eastern Zone
+1161,Chirang,medium,high,low,medium,medium,high,medium,low,low,high,low,low,medium,medium,low,low,low,high,low,low,medium,medium,low,medium,medium,low,medium,high,AS,Rural,North Eastern Zone
+1163,Kamrup,high,high,medium,medium,high,high,high,medium,medium,medium,low,high,medium,medium,medium,low,medium,high,medium,medium,medium,medium,low,medium,medium,low,medium,high,AS,Rural,North Eastern Zone
+1165,Kamrup Metropolitan,high,low,low,high,high,high,high,high,high,medium,medium,high,medium,high,high,high,medium,high,high,high,low,low,low,high,high,low,medium,medium,AS,Urban,North Eastern Zone
+1167,Nalbari,high,medium,high,medium,medium,high,high,medium,medium,medium,medium,low,medium,medium,medium,low,low,high,low,low,low,medium,medium,medium,medium,low,low,high,AS,Rural,North Eastern Zone
+1169,Baksa,medium,high,low,medium,medium,high,medium,medium,medium,medium,medium,medium,medium,high,medium,medium,medium,high,high,high,medium,low,medium,medium,low,low,medium,high,AS,Rural,North Eastern Zone
+1171,Darrang,medium,high,high,medium,medium,high,medium,low,low,high,medium,low,medium,medium,low,low,low,high,low,low,high,medium,high,low,low,low,low,high,AS,Rural,North Eastern Zone
+1173,Udalguri,medium,medium,low,medium,low,high,medium,medium,low,medium,medium,low,medium,medium,low,medium,medium,high,low,low,medium,medium,low,low,medium,low,medium,high,AS,Rural,North Eastern Zone
+1175,West Tripura,high,high,high,high,high,high,high,high,high,medium,medium,medium,high,medium,high,medium,high,medium,medium,medium,low,low,low,high,high,medium,medium,medium,TR,Urban,North Eastern Zone
+1176,West Tripura,high,low,high,high,medium,high,high,high,low,high,medium,medium,high,low,high,low,high,medium,low,medium,low,low,low,medium,high,medium,medium,medium,TR,Rural,North Eastern Zone
+1178,South Tripura,high,medium,medium,high,medium,medium,high,high,low,high,medium,low,medium,low,medium,medium,high,medium,medium,medium,low,medium,medium,medium,medium,medium,medium,high,TR,Rural,North Eastern Zone
+1180,Dhalai,high,medium,low,medium,medium,high,medium,low,low,high,medium,low,medium,low,medium,low,medium,medium,medium,medium,medium,low,low,medium,medium,medium,medium,high,TR,Rural,North Eastern Zone
+1182,North Tripura,high,high,low,medium,medium,high,high,medium,low,high,medium,low,medium,low,low,low,low,high,low,low,low,high,high,low,low,low,medium,medium,TR,Rural,North Eastern Zone
+1185,Tawang,low,medium,medium,medium,high,high,low,low,low,low,low,high,low,low,low,low,low,medium,high,high,low,low,low,high,high,low,low,low,AR,Rural,North Eastern Zone
+1188,West Kameng,medium,high,medium,medium,high,high,low,medium,low,medium,low,high,low,low,low,low,low,high,high,high,low,low,low,high,medium,low,low,low,AR,Rural,North Eastern Zone
+1191,East Kameng,low,high,low,low,medium,high,low,low,low,medium,low,high,low,low,low,low,low,high,medium,medium,medium,low,low,medium,medium,low,low,medium,AR,Rural,North Eastern Zone
+1193,Papum Pare,high,low,medium,high,high,high,high,high,high,medium,low,high,low,low,high,low,low,medium,high,high,low,low,low,high,high,medium,medium,low,AR,Urban,North Eastern Zone
+1194,Papum Pare,medium,low,low,high,high,medium,medium,high,medium,medium,low,high,low,low,low,low,medium,low,medium,high,low,low,low,high,high,medium,low,low,AR,Rural,North Eastern Zone
+1197,Upper Subansiri,low,medium,low,medium,medium,high,low,low,medium,medium,low,high,low,low,low,low,low,high,high,high,low,low,low,medium,medium,low,low,medium,AR,Rural,North Eastern Zone
+1200,West Siang,medium,medium,medium,high,medium,medium,medium,medium,high,medium,low,high,low,low,low,low,low,high,high,high,medium,low,low,medium,medium,low,low,low,AR,Rural,North Eastern Zone
+1203,East Siang,medium,medium,high,high,medium,high,high,high,high,medium,low,high,low,low,low,medium,medium,medium,medium,high,low,low,low,high,high,low,low,medium,AR,Rural,North Eastern Zone
+1209,Changlang,medium,high,low,medium,medium,high,medium,medium,low,medium,medium,medium,medium,low,low,high,low,high,medium,medium,low,low,low,medium,medium,medium,medium,medium,AR,Rural,North Eastern Zone
+1212,Tirap,medium,high,low,medium,low,high,medium,medium,low,low,medium,medium,low,low,low,low,low,high,medium,medium,medium,low,low,low,low,medium,low,low,AR,Rural,North Eastern Zone
+1215,Lower Subansiri,medium,medium,high,high,high,high,medium,high,medium,low,low,high,low,low,low,low,low,high,high,high,medium,low,low,medium,high,low,low,medium,AR,Rural,North Eastern Zone
+1218,Kurung Kumey,low,high,medium,medium,high,high,low,low,low,high,low,high,low,low,low,low,low,high,medium,medium,medium,low,low,medium,high,low,low,low,AR,Rural,North Eastern Zone
+1221,Dibang Valley,medium,high,high,high,medium,high,medium,low,medium,medium,medium,medium,low,medium,low,low,low,high,medium,medium,medium,low,low,high,medium,low,low,low,AR,Rural,North Eastern Zone
+1224,Lower Dibang Valley,medium,low,medium,high,medium,high,medium,low,medium,medium,low,high,low,low,low,low,low,medium,high,high,low,low,low,medium,medium,medium,low,low,AR,Rural,North Eastern Zone
+1227,Lohit,medium,low,medium,high,low,high,low,low,low,high,medium,medium,medium,low,low,low,low,high,high,high,low,low,medium,medium,medium,medium,medium,high,AR,Rural,North Eastern Zone
+1230,Anjaw,medium,high,low,medium,medium,high,medium,medium,medium,medium,low,high,low,low,low,low,low,high,high,high,low,low,low,medium,high,medium,low,low,AR,Rural,North Eastern Zone
+1232,Srikakulam,low,low,low,low,medium,low,low,low,medium,medium,high,low,high,high,high,medium,high,low,low,low,low,medium,medium,high,medium,high,high,high,AP,Rural,Southern Zone
+1234,Vizianagaram,low,medium,medium,low,high,low,low,low,medium,medium,high,low,high,high,high,low,high,medium,medium,medium,medium,high,high,medium,high,high,high,high,AP,Rural,Southern Zone
+1239,East Godavari,medium,medium,low,medium,high,low,medium,low,medium,high,high,low,high,high,high,medium,high,medium,medium,low,low,medium,low,high,high,medium,high,high,AP,Rural,Southern Zone
+1241,West Godavari,medium,low,low,medium,high,low,medium,low,medium,high,high,low,high,high,high,high,high,low,low,low,low,low,medium,high,high,medium,high,medium,AP,Rural,Southern Zone
+1249,Prakasam,low,low,low,medium,high,low,low,low,medium,high,high,low,high,high,high,medium,high,low,medium,high,low,low,low,high,high,medium,high,high,AP,Rural,Southern Zone
+1253,Y.S.R.,high,low,low,high,high,low,high,medium,high,medium,high,low,high,high,high,medium,high,high,low,low,medium,low,low,high,high,medium,medium,low,AP,Urban,Southern Zone
+1254,Y.S.R.,low,low,low,medium,high,low,low,low,medium,high,high,low,high,high,high,medium,high,low,medium,medium,medium,medium,low,medium,high,medium,high,medium,AP,Rural,Southern Zone
+1256,Kurnool,low,low,low,medium,high,low,low,low,low,high,high,low,high,high,low,medium,high,low,low,low,high,medium,low,high,high,medium,medium,high,AP,Rural,Southern Zone
+1258,Anantapur,low,high,low,medium,high,low,low,medium,medium,medium,high,low,high,high,medium,high,medium,high,high,high,medium,medium,medium,high,high,medium,medium,medium,AP,Rural,Southern Zone
+1260,Chittoor,medium,high,low,medium,high,low,medium,medium,medium,high,high,low,high,high,high,high,high,medium,low,low,low,medium,medium,high,high,low,medium,medium,AP,Rural,Southern Zone
+1262,Adilabad,low,low,low,low,medium,medium,low,low,low,high,medium,low,high,high,low,high,high,low,medium,low,medium,high,high,medium,low,high,high,high,TG,Rural,Southern Zone
+1264,Nizamabad,low,low,medium,medium,high,medium,low,low,medium,high,medium,low,high,high,high,medium,high,low,medium,medium,medium,high,medium,medium,high,high,medium,medium,TG,Rural,Southern Zone
+1268,Medak,low,medium,medium,medium,medium,medium,low,medium,medium,high,medium,low,medium,medium,high,high,high,medium,medium,medium,low,high,medium,medium,medium,high,high,medium,TG,Rural,Southern Zone
+1270,Hyderabad,high,low,medium,high,high,high,high,medium,high,low,high,medium,high,high,high,high,high,medium,high,high,low,low,medium,high,high,medium,medium,low,TG,Urban,Southern Zone
+1272,Rangareddy,high,low,low,medium,high,high,high,high,high,medium,high,low,high,high,high,medium,high,low,low,medium,low,low,low,high,high,low,medium,low,TG,Urban,Southern Zone
+1274,Mahbubnagar,low,medium,low,low,high,low,low,low,medium,high,high,low,medium,high,medium,low,high,medium,medium,low,medium,high,high,medium,high,medium,medium,low,TG,Rural,Southern Zone
+1276,Nalgonda,low,low,low,medium,high,low,low,medium,medium,high,high,low,high,medium,high,high,high,medium,low,medium,low,medium,medium,high,high,high,medium,low,TG,Rural,Southern Zone
+1278,Warangal,low,medium,low,medium,high,medium,medium,medium,high,high,medium,low,high,high,high,high,high,medium,medium,medium,low,medium,medium,medium,high,medium,medium,medium,TG,Rural,Southern Zone
+1280,Khammam,low,low,medium,medium,high,high,low,low,medium,high,high,low,high,high,high,medium,high,medium,medium,high,low,medium,high,high,high,high,high,high,TG,Rural,Southern Zone
+1282,Uttarkashi,medium,low,low,medium,medium,low,medium,high,high,low,high,medium,low,medium,low,high,low,low,medium,medium,medium,low,low,low,low,high,medium,medium,UT,Rural,Central Zone
+1284,Chamoli,medium,medium,medium,high,medium,low,high,high,high,low,high,medium,low,medium,low,medium,low,medium,medium,high,medium,low,medium,medium,low,medium,low,low,UT,Rural,Central Zone
+1286,Rudraprayag,medium,medium,low,high,medium,low,high,high,high,low,high,medium,low,medium,low,high,low,high,high,high,low,low,medium,medium,medium,medium,low,low,UT,Rural,Central Zone
+1288,Tehri Garhwal,medium,medium,low,high,medium,medium,medium,high,high,low,high,medium,low,medium,low,low,low,medium,medium,medium,medium,medium,medium,low,low,medium,low,low,UT,Rural,Central Zone
+1290,Dehradun,high,low,high,high,high,high,high,high,high,low,high,low,medium,medium,medium,low,low,low,high,medium,low,low,low,high,high,low,low,low,UT,Urban,Central Zone
+1291,Dehradun,high,low,high,high,high,medium,high,high,high,low,high,medium,medium,medium,medium,medium,low,low,high,high,medium,low,low,high,high,medium,low,low,UT,Rural,Central Zone
+1293,Garhwal,high,low,low,high,medium,medium,high,high,high,low,high,high,low,medium,medium,medium,low,low,low,low,low,medium,medium,medium,medium,medium,low,low,UT,Rural,Central Zone
+1295,Pithoragarh,medium,low,low,high,medium,low,high,high,medium,high,high,low,low,medium,low,medium,low,low,high,high,low,low,low,medium,medium,low,low,low,UT,Rural,Central Zone
+1297,Bageshwar,high,low,low,high,medium,medium,high,high,high,medium,high,high,low,medium,low,medium,low,low,high,high,low,medium,low,low,medium,low,low,low,UT,Rural,Central Zone
+1299,Almora,medium,high,low,high,medium,low,high,high,high,low,high,medium,low,medium,low,medium,medium,low,medium,medium,medium,medium,high,low,medium,low,low,medium,UT,Rural,Central Zone
+1301,Champawat,medium,high,medium,medium,medium,medium,medium,medium,medium,low,high,medium,low,medium,low,medium,low,low,medium,medium,low,medium,medium,medium,high,low,low,low,UT,Rural,Central Zone
+1303,Nainital,high,low,high,high,high,high,high,high,high,low,medium,medium,medium,high,medium,medium,medium,low,high,high,low,low,medium,high,high,medium,low,low,UT,Urban,Central Zone
+1304,Nainital,high,medium,medium,high,high,low,high,high,high,low,medium,high,low,medium,low,low,low,low,medium,medium,medium,medium,medium,high,high,medium,low,low,UT,Rural,Central Zone
+1306,Udham Singh Nagar,high,medium,high,high,high,medium,medium,medium,high,medium,medium,high,low,low,low,low,low,low,high,high,medium,low,medium,high,high,high,medium,medium,UT,Urban,Central Zone
+1307,Udham Singh Nagar,medium,medium,high,medium,high,medium,medium,medium,medium,medium,low,high,low,medium,low,low,low,low,medium,medium,medium,medium,medium,high,medium,medium,medium,low,UT,Rural,Central Zone
+1309,Hardwar,high,low,high,high,high,medium,medium,high,high,low,medium,medium,medium,medium,medium,medium,low,low,medium,low,medium,low,low,high,high,high,medium,low,UT,Urban,Central Zone
+1310,Hardwar,medium,high,high,medium,medium,medium,medium,medium,medium,medium,low,high,low,low,low,medium,low,low,low,low,medium,medium,medium,medium,medium,high,high,medium,UT,Rural,Central Zone
+1312,Saharanpur,medium,low,high,high,high,medium,medium,medium,high,low,medium,low,medium,medium,low,medium,low,low,low,low,medium,medium,medium,high,high,high,high,low,UP,Urban,Central Zone
+1313,Saharanpur,medium,medium,high,medium,medium,medium,medium,medium,medium,low,medium,medium,medium,low,low,medium,low,low,medium,medium,medium,high,high,medium,medium,high,high,medium,UP,Rural,Central Zone
+1315,Muzaffarnagar,low,low,high,high,high,medium,medium,low,medium,low,medium,medium,medium,low,low,medium,low,low,medium,medium,medium,low,high,high,high,high,high,low,UP,Urban,Central Zone
+1316,Muzaffarnagar,medium,low,high,medium,medium,low,medium,medium,medium,low,medium,medium,medium,medium,low,medium,low,low,high,medium,high,medium,medium,medium,low,high,high,high,UP,Rural,Central Zone
+1318,Bijnor,medium,low,high,high,high,medium,high,medium,high,low,low,high,low,low,low,high,low,low,low,medium,medium,medium,medium,high,high,high,high,low,UP,Urban,Central Zone
+1319,Bijnor,medium,low,high,medium,medium,medium,medium,medium,medium,low,medium,medium,low,low,medium,medium,low,low,low,low,high,medium,high,medium,low,high,medium,high,UP,Rural,Central Zone
+1321,Moradabad,medium,medium,high,high,high,medium,medium,low,medium,low,medium,low,medium,low,low,low,low,low,high,high,medium,medium,low,high,high,high,medium,medium,UP,Urban,Central Zone
+1322,Moradabad,low,medium,high,medium,medium,medium,low,low,low,low,medium,medium,medium,low,low,low,low,low,medium,medium,high,high,high,medium,low,high,high,medium,UP,Rural,Central Zone
+1325,Rampur,low,low,high,medium,medium,medium,low,low,low,low,low,low,medium,low,low,high,low,low,medium,medium,high,high,high,medium,low,high,high,low,UP,Rural,Central Zone
+1327,Jyotiba Phule Nagar,medium,high,high,high,high,medium,medium,low,medium,low,medium,medium,medium,low,low,medium,medium,low,low,medium,medium,medium,medium,high,medium,high,high,medium,UP,Urban,Central Zone
+1328,Jyotiba Phule Nagar,low,medium,high,medium,medium,medium,low,medium,medium,low,medium,medium,low,low,low,high,low,low,low,low,high,high,high,medium,low,high,high,medium,UP,Rural,Central Zone
+1330,Meerut,medium,low,high,high,high,medium,medium,medium,high,low,medium,low,medium,medium,low,medium,low,low,medium,medium,medium,low,medium,high,high,high,medium,low,UP,Urban,Central Zone
+1331,Meerut,medium,medium,high,medium,medium,medium,medium,high,medium,low,medium,low,medium,low,medium,high,low,low,medium,medium,medium,medium,medium,high,medium,high,high,high,UP,Rural,Central Zone
+1334,Baghpat,medium,low,high,high,medium,medium,medium,high,high,low,medium,low,medium,medium,medium,high,low,low,low,low,medium,medium,low,high,medium,high,high,low,UP,Rural,Central Zone
+1336,Ghaziabad,high,medium,low,high,high,high,high,high,high,medium,high,low,medium,medium,low,medium,low,low,low,low,medium,low,low,high,high,medium,medium,low,UP,Urban,Central Zone
+1337,Ghaziabad,medium,low,high,medium,high,medium,medium,high,medium,medium,medium,medium,low,low,low,medium,low,low,medium,medium,medium,medium,medium,high,medium,medium,high,high,UP,Rural,Central Zone
+1339,Gautum Buddha Nagar,high,low,low,medium,high,high,high,high,high,medium,medium,low,medium,medium,medium,medium,low,low,medium,medium,low,low,low,high,high,high,high,low,UP,Urban,Central Zone
+1340,Gautum Buddha Nagar,medium,medium,medium,medium,high,high,medium,high,medium,medium,medium,low,medium,low,low,medium,low,low,low,medium,medium,medium,medium,high,high,medium,medium,medium,UP,Rural,Central Zone
+1343,Bulandshahr,medium,medium,high,medium,medium,medium,low,medium,medium,medium,medium,medium,low,low,low,low,low,low,low,low,medium,medium,high,medium,medium,medium,high,high,UP,Rural,Central Zone
+1345,Aligarh,medium,low,high,high,high,medium,medium,low,high,low,medium,low,medium,medium,low,high,low,low,medium,medium,medium,low,medium,high,high,high,medium,high,UP,Urban,Central Zone
+1346,Aligarh,low,medium,high,medium,medium,low,low,low,medium,medium,low,medium,low,low,low,medium,low,low,low,low,high,medium,medium,medium,low,high,high,high,UP,Rural,Central Zone
+1349,Mahamaya Nagar,medium,high,high,low,medium,medium,medium,medium,medium,high,low,medium,low,low,medium,medium,low,low,high,high,high,medium,high,medium,medium,low,low,low,UP,Rural,Central Zone
+1352,Mathura,medium,medium,medium,medium,medium,medium,low,high,medium,high,medium,medium,low,low,low,medium,low,low,medium,medium,high,medium,low,medium,medium,medium,low,medium,UP,Rural,Central Zone
+1354,Agra,high,medium,low,high,high,medium,medium,medium,high,low,medium,low,medium,medium,medium,medium,low,low,medium,medium,medium,low,medium,high,high,low,low,medium,UP,Urban,Central Zone
+1355,Agra,low,high,medium,low,medium,low,low,high,medium,medium,medium,medium,low,low,medium,medium,low,low,low,low,high,medium,medium,medium,medium,medium,medium,low,UP,Rural,Central Zone
+1357,Firozabad,medium,low,medium,high,high,medium,medium,low,high,low,low,medium,medium,low,low,medium,low,low,low,low,high,medium,high,high,medium,low,low,medium,UP,Urban,Central Zone
+1358,Firozabad,medium,low,high,low,medium,medium,medium,low,medium,medium,low,high,low,low,low,medium,low,low,low,low,high,medium,medium,low,medium,low,low,low,UP,Rural,Central Zone
+1361,Mainpuri,medium,low,high,low,medium,medium,medium,high,medium,medium,low,high,low,low,low,medium,low,low,low,low,high,medium,high,medium,low,low,low,low,UP,Rural,Central Zone
+1364,Budaun,low,medium,high,low,low,medium,low,low,low,high,low,medium,low,low,low,low,low,low,low,low,high,high,high,low,low,medium,medium,high,UP,Rural,Central Zone
+1366,Bareilly,low,high,high,high,high,medium,medium,medium,medium,low,medium,low,medium,low,low,medium,low,low,low,low,medium,medium,high,high,medium,high,medium,medium,UP,Urban,Central Zone
+1367,Bareilly,low,high,high,medium,medium,low,low,low,low,medium,medium,low,medium,low,low,low,low,low,medium,medium,high,high,high,medium,low,high,medium,medium,UP,Rural,Central Zone
+1370,Pilibhit,low,medium,high,medium,medium,low,low,low,low,low,medium,medium,medium,low,low,high,low,low,low,low,high,high,high,medium,low,high,high,medium,UP,Rural,Central Zone
+1373,Shahjahanpur,low,medium,high,low,low,low,low,low,low,high,low,high,low,low,low,medium,low,low,medium,medium,high,high,high,medium,low,high,high,medium,UP,Rural,Central Zone
+1376,Kheri,low,low,high,low,low,low,low,low,low,high,low,high,low,low,low,low,low,low,medium,medium,high,high,high,low,low,low,low,medium,UP,Rural,Central Zone
+1379,Sitapur,low,low,high,low,low,low,low,low,low,high,low,high,low,low,low,low,low,medium,low,low,high,high,high,low,low,medium,low,medium,UP,Rural,Central Zone
+1382,Hardoi,low,low,high,low,medium,low,low,low,low,medium,low,high,low,low,low,low,medium,low,low,low,high,high,high,low,low,low,low,medium,UP,Rural,Central Zone
+1385,Unnao,medium,medium,high,low,medium,low,low,low,medium,low,low,high,low,low,low,medium,low,low,low,low,high,medium,high,medium,low,low,low,medium,UP,Rural,Central Zone
+1387,Lucknow,high,low,high,high,high,medium,high,high,high,low,medium,medium,medium,medium,high,medium,low,low,low,low,medium,low,low,high,high,high,medium,medium,UP,Urban,Central Zone
+1388,Lucknow,medium,medium,high,medium,high,low,medium,low,medium,low,low,medium,medium,low,medium,medium,low,low,medium,medium,high,medium,medium,low,medium,high,high,low,UP,Rural,Central Zone
+1391,Rae Bareli,medium,medium,high,low,medium,low,medium,medium,medium,low,low,high,low,medium,medium,medium,low,medium,low,low,medium,medium,high,low,low,medium,low,medium,UP,Rural,Central Zone
+1394,Farrukhabad,medium,high,high,low,low,low,medium,high,medium,medium,low,high,low,low,low,low,low,low,medium,medium,high,medium,high,medium,medium,low,low,medium,UP,Rural,Central Zone
+1397,Kannauj,medium,high,high,low,low,low,medium,medium,medium,medium,low,high,low,low,low,low,low,low,low,low,high,medium,high,medium,low,low,low,medium,UP,Rural,Central Zone
+1400,Etawah,medium,low,high,low,medium,low,medium,medium,medium,medium,low,high,low,low,medium,medium,low,low,low,low,high,medium,medium,medium,low,low,low,low,UP,Rural,Central Zone
+1403,Auraiya,medium,low,high,medium,medium,low,medium,medium,medium,medium,low,high,low,low,low,low,low,low,low,low,high,medium,high,low,low,high,high,high,UP,Rural,Central Zone
+1406,Kanpur Dehat,medium,high,high,low,low,low,medium,high,medium,medium,low,high,low,low,medium,medium,medium,medium,medium,low,high,medium,high,low,low,medium,high,medium,UP,Rural,Central Zone
+1408,Kanpur Nagar,high,low,high,high,high,high,high,medium,high,low,medium,medium,medium,medium,medium,low,low,low,low,low,high,low,medium,medium,high,high,medium,medium,UP,Urban,Central Zone
+1409,Kanpur Nagar,medium,high,high,medium,medium,low,medium,medium,high,low,low,medium,low,low,medium,high,low,medium,low,low,high,medium,medium,low,medium,high,high,medium,UP,Rural,Central Zone
+1412,Jalaun,medium,low,high,medium,low,low,medium,medium,medium,medium,medium,medium,low,low,medium,medium,low,medium,low,low,high,medium,medium,low,low,high,high,high,UP,Rural,Central Zone
+1414,Jhansi,high,low,high,high,high,medium,high,high,high,low,medium,low,medium,low,high,medium,low,low,high,high,low,low,medium,high,medium,high,medium,low,UP,Urban,Central Zone
+1415,Jhansi,low,low,medium,low,low,low,low,low,medium,high,high,low,low,low,medium,medium,low,medium,high,high,medium,high,low,low,low,high,high,low,UP,Rural,Central Zone
+1418,Lalitpur,low,medium,medium,low,low,low,low,medium,low,high,high,low,low,low,medium,medium,medium,medium,medium,low,medium,medium,high,low,low,high,medium,low,UP,Rural,Central Zone
+1421,Hamirpur,low,medium,high,medium,low,low,medium,medium,medium,medium,medium,high,low,low,medium,low,medium,medium,low,low,medium,high,high,low,low,medium,medium,high,UP,Rural,Central Zone
+1424,Mahoba,low,medium,medium,medium,low,low,low,low,medium,medium,medium,low,low,low,high,high,low,medium,low,low,high,high,high,low,low,high,high,low,UP,Rural,Central Zone
+1427,Banda,low,low,high,low,low,low,low,medium,medium,medium,low,medium,low,low,medium,low,low,medium,low,low,high,medium,medium,low,low,medium,medium,medium,UP,Rural,Central Zone
+1430,Chitrakoot,low,medium,medium,low,low,low,low,low,low,high,medium,high,low,medium,medium,medium,low,medium,high,high,high,high,high,low,low,high,high,high,UP,Rural,Central Zone
+1433,Fatehpur,low,low,high,low,low,medium,medium,low,medium,low,low,high,low,low,low,low,low,low,low,low,high,high,medium,low,low,low,low,medium,UP,Rural,Central Zone
+1436,Pratapgarh,medium,medium,medium,low,medium,medium,medium,medium,medium,low,low,high,low,low,medium,low,low,low,low,low,medium,high,medium,medium,medium,medium,medium,medium,UP,Rural,Central Zone
+1439,Kaushambi,low,high,medium,low,medium,low,low,low,low,medium,low,high,low,low,medium,low,low,low,low,low,high,high,high,low,medium,high,medium,medium,UP,Rural,Central Zone
+1442,Allahabad,low,medium,medium,low,medium,medium,medium,low,high,medium,low,high,low,medium,low,low,medium,medium,medium,low,high,medium,high,medium,low,medium,medium,high,UP,Rural,Central Zone
+1445,Bara Banki,low,high,high,low,medium,medium,low,low,medium,medium,low,high,low,low,low,low,low,low,low,low,high,high,high,medium,low,low,low,low,UP,Rural,Central Zone
+1448,Faizabad,medium,medium,high,low,medium,low,medium,medium,medium,medium,low,high,low,low,medium,medium,low,low,low,low,high,high,high,medium,medium,medium,high,high,UP,Rural,Central Zone
+1451,Ambedkar Nagar,medium,low,high,low,low,low,medium,high,high,low,low,high,medium,low,medium,medium,low,low,medium,medium,high,high,high,medium,medium,medium,medium,medium,UP,Rural,Central Zone
+1454,Sultanpur,low,low,medium,low,low,low,medium,low,medium,medium,low,high,low,low,medium,low,low,low,low,low,high,high,high,medium,medium,high,medium,medium,UP,Rural,Central Zone
+1457,Bahraich,low,high,high,low,low,low,low,low,low,high,low,high,low,low,low,low,low,low,low,low,high,high,high,low,medium,high,medium,high,UP,Rural,Central Zone
+1460,Shrawasti,low,medium,high,low,low,low,low,low,low,high,low,high,low,low,low,low,low,low,medium,medium,high,medium,high,low,low,high,medium,high,UP,Rural,Central Zone
+1463,Balrampur,low,low,high,low,low,low,low,low,low,high,low,high,low,low,low,low,low,low,medium,medium,high,medium,medium,low,low,high,medium,medium,UP,Rural,Central Zone
+1466,Gonda,low,high,high,low,medium,low,low,low,low,high,low,high,low,low,low,low,low,low,medium,medium,high,high,high,medium,low,high,medium,high,UP,Rural,Central Zone
+1469,Siddharthnagar,low,medium,high,low,medium,medium,low,medium,low,high,low,high,low,low,low,low,low,low,low,low,high,medium,high,medium,low,medium,medium,high,UP,Rural,Central Zone
+1472,Basti,low,medium,high,low,medium,medium,low,low,medium,medium,low,high,low,low,medium,medium,medium,low,low,low,high,medium,high,medium,low,high,medium,medium,UP,Rural,Central Zone
+1475,Sant Kabir Nagar,low,low,high,low,medium,low,low,low,medium,high,low,high,low,low,low,low,low,low,medium,medium,high,medium,medium,medium,medium,high,medium,medium,UP,Rural,Central Zone
+1478,Mahrajganj,low,medium,high,low,medium,low,low,low,low,high,low,high,low,medium,low,low,medium,medium,medium,medium,high,high,high,medium,low,medium,medium,medium,UP,Rural,Central Zone
+1481,Gorakhpur,medium,medium,high,low,medium,medium,medium,medium,medium,medium,low,high,low,low,medium,medium,medium,medium,low,low,high,medium,high,medium,high,medium,medium,medium,UP,Rural,Central Zone
+1484,Kushinagar,low,low,high,low,medium,medium,low,medium,medium,high,low,high,low,medium,low,low,medium,low,medium,medium,high,medium,high,medium,low,medium,medium,high,UP,Rural,Central Zone
+1487,Deoria,medium,high,high,low,medium,medium,medium,high,medium,medium,low,high,low,low,medium,medium,medium,low,low,low,medium,medium,medium,medium,medium,high,medium,high,UP,Rural,Central Zone
+1490,Azamgarh,medium,medium,high,low,medium,medium,medium,medium,high,low,low,high,low,low,medium,low,low,low,low,low,medium,medium,high,medium,medium,medium,high,high,UP,Rural,Central Zone
+1493,Mau,medium,low,high,low,medium,medium,medium,medium,high,low,low,high,medium,low,medium,low,low,low,high,high,medium,medium,high,medium,medium,medium,medium,medium,UP,Rural,Central Zone
+1496,Ballia,medium,medium,high,low,medium,low,medium,high,medium,medium,low,high,medium,low,medium,low,low,low,medium,high,medium,medium,high,medium,medium,medium,medium,medium,UP,Rural,Central Zone
+1499,Jaunpur,medium,low,medium,low,medium,low,medium,high,high,medium,low,high,low,low,medium,low,low,low,medium,medium,high,high,medium,medium,medium,medium,medium,medium,UP,Rural,Central Zone
+1502,Ghazipur,medium,high,high,low,low,medium,medium,high,high,medium,low,high,low,low,medium,low,low,low,low,low,medium,medium,medium,medium,medium,high,high,high,UP,Rural,Central Zone
+1505,Chandauli,medium,medium,medium,low,medium,high,medium,medium,high,high,low,high,low,medium,medium,medium,medium,low,low,low,high,high,medium,medium,low,medium,high,high,UP,Rural,Central Zone
+1507,Varanasi,high,medium,high,high,high,medium,high,medium,high,low,medium,high,medium,medium,medium,low,low,low,medium,low,medium,medium,high,high,medium,medium,medium,medium,UP,Urban,Central Zone
+1508,Varanasi,medium,medium,medium,medium,medium,medium,medium,medium,high,medium,medium,medium,low,medium,medium,medium,low,low,low,low,high,medium,medium,medium,medium,medium,medium,medium,UP,Rural,Central Zone
+1511,Sant Ravidas Nagar,medium,medium,low,low,medium,medium,medium,medium,medium,medium,low,high,medium,low,medium,low,low,low,medium,medium,high,medium,high,medium,medium,medium,medium,medium,UP,Rural,Central Zone
+1514,Mirzapur,low,high,low,low,low,medium,medium,low,medium,high,medium,high,low,medium,medium,low,medium,low,medium,medium,high,high,high,medium,low,medium,medium,high,UP,Rural,Central Zone
+1517,Sonbhadra,low,medium,low,low,low,medium,low,medium,low,high,medium,high,low,medium,low,low,medium,medium,low,low,high,medium,high,low,low,medium,high,high,UP,Rural,Central Zone
+1520,Etah,medium,low,high,low,medium,medium,medium,medium,medium,medium,low,medium,low,low,low,low,low,low,low,low,high,medium,high,medium,low,low,low,low,UP,Rural,Central Zone
+1523,Kanshiram Nagar,low,low,high,low,low,medium,low,low,low,medium,low,medium,low,low,low,low,low,low,low,low,high,high,high,medium,low,low,low,medium,UP,Rural,Central Zone
+1525,Mon,medium,low,low,high,low,high,medium,low,low,low,low,high,low,low,low,low,low,high,high,high,medium,low,low,low,high,low,low,low,NL,Rural,North Eastern Zone
+1529,Zunheboto,high,low,medium,high,low,high,high,medium,medium,low,low,high,low,low,low,low,low,high,high,high,low,low,low,medium,low,low,low,low,NL,Rural,North Eastern Zone
+1531,Wokha,high,medium,low,high,medium,high,high,high,medium,medium,low,high,low,low,low,low,low,high,high,high,low,low,low,low,medium,low,low,high,NL,Rural,North Eastern Zone
+1533,Dimapur,high,high,low,high,high,high,high,high,high,low,low,high,low,low,low,low,low,medium,high,high,low,low,low,high,medium,low,low,low,NL,Urban,North Eastern Zone
+1534,Dimapur,high,high,low,high,high,high,high,medium,medium,medium,low,high,low,low,low,low,low,medium,high,high,low,low,medium,high,medium,low,low,low,NL,Rural,North Eastern Zone
+1536,Phek,high,high,medium,high,low,high,medium,medium,low,low,low,high,low,low,low,low,low,medium,high,high,low,low,low,medium,low,low,low,low,NL,Rural,North Eastern Zone
+1538,Tuensang,high,high,medium,high,low,high,medium,low,low,low,low,high,low,low,low,low,low,high,high,medium,medium,low,low,low,low,low,low,low,NL,Rural,North Eastern Zone
+1540,Longleng,high,low,low,high,low,high,medium,medium,low,medium,low,medium,low,low,low,low,low,high,high,high,low,low,low,low,low,low,low,low,NL,Rural,North Eastern Zone
+1542,Kiphire,high,medium,medium,high,low,high,medium,low,low,low,low,high,low,low,low,low,low,medium,high,high,high,low,low,low,low,low,low,low,NL,Rural,North Eastern Zone
+1544,Kohima,high,high,low,high,high,high,high,high,high,low,low,high,medium,low,low,medium,low,medium,high,high,low,low,medium,high,high,low,low,low,NL,Urban,North Eastern Zone
+1545,Kohima,high,high,low,high,medium,high,high,medium,medium,low,low,high,low,low,low,medium,low,high,high,high,low,low,low,medium,high,low,low,low,NL,Rural,North Eastern Zone
+1547,Peren,high,medium,low,high,low,high,medium,medium,low,medium,low,high,low,low,low,low,low,medium,high,high,low,low,low,medium,low,low,low,low,NL,Rural,North Eastern Zone
