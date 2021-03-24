@@ -12,7 +12,7 @@ This project explores two problems: discovering a set of attributes that predict
 <br></br>
 Contraceptive usage/family planning has been shown to have remarkable consequences on the behaviour of households with respect to children and mothers, children are more likely to be immunised, pregnant women are more likely to get proper health care checkups, and women are more likely to be punctilious about their health (for example, getting checkups for Breast and Cervix Cancer).
 <br></br>
-Please see the [report](https://github.com/prathmachowksey/NFHS-4-Analysis/blob/master/Report/DMFinalReport_TeamID_27.pdf) for detailed findings. 
+Please see the [report](https://github.com/prathmachowksey/NFHS-4-Analysis/blob/master/DM%20Submission/Report/DMFinalReport_TeamID_27.pdf) for detailed findings. 
 <br></br>
 Link to the demo video : https://www.youtube.com/watch?v=L2tnYNAUZ1c&feature=youtu.be
 
