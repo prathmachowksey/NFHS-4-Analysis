@@ -1,4 +1,4 @@
-#Team Members: Prathma Chowksey, Hasnain Zeenwala, Akshat Jain, Shivangi Sharma
+## Team Members: Prathma Chowksey, Hasnain Zeenwala, Akshat Jain, Shivangi Sharma
 # NFHS-4-Analysis
 - [National Family Health Survey, 4 (2015-2016) - India](http://rchiips.org/NFHS/factsheet_NFHS-4.shtml) 
 - Data for this project has been taken from https://data.gov.in/
